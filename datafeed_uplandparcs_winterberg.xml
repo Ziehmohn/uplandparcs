@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<products>
   <product>
     <id>8264</id>
     <title>Luxe 6p villa dicht bij piste en centrum</title>
@@ -47,3 +48,4 @@
     <category>Cottage</category>
     <category_id>1</category_id>
   </product>
+</products>
