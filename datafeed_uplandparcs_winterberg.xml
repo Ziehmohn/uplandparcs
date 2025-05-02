@@ -1,14 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed>
   <categories>
-    <category>
-      <id>1</id>
-      <title>Cottage</title>
-    </category>
-    <category>
-      <id>2</id>
-      <title>Villa</title>
-    </category>
+  <category>
+    <id>1</id>
+    <title>Cottage</title>
+  </category>
+  <category>
+    <id>2</id>
+    <title>Villa</title>
+  </category>
+  <category>
+    <id>3</id>
+    <title>Appartement</title>
+  </category>
+  <category>
+    <id>4</id>
+    <title>Glamping</title>
+  </category>
+  <category>
+    <id>5</id>
+    <title>Chalet</title>
+  </category>
+  <category>
+    <id>6</id>
+    <title>Baumhaus</title>
+  </category>
   </categories>
 <products>
   <product>
