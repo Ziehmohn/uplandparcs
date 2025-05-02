@@ -10,6 +10,7 @@
     <link>https://www.uplandparcs.de/information?objektTyp=luxe-6p-villa-bij-piste-en-centrum</link>
     <availability>in stock</availability>
     <category>Villa</category>
+    <category_id>2</category_id>
   </product>
   <product>
     <id>8261</id>
@@ -21,6 +22,7 @@
     <link>https://www.uplandparcs.de/information?objektTyp=luxe-8p-villa-bij-centrum-en-piste</link>
     <availability>in stock</availability>
     <category>Villa</category>
+    <category_id>2</category_id>
   </product>
   <product>
     <id>8267</id>
@@ -32,6 +34,7 @@
     <link>https://www.uplandparcs.de/information?objektTyp=luxe-en-ruim-12p-villa-nabij-piste-en-centrum</link>
     <availability>in stock</availability>
     <category>Villa</category>
+    <category_id>2</category_id>
   </product>
   <product>
     <id>8270</id>
@@ -43,5 +46,6 @@
     <link>https://www.uplandparcs.de/information?objektTyp=luxe-4p-cottage-vlak-bij-centrum-en-piste</link>
     <availability>in stock</availability>
     <category>Cottage</category>
+    <category_id>1</category_id>
   </product>
 </products>
