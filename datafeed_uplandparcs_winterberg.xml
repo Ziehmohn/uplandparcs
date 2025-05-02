@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<categories>
-  <category>
+<products>
+  <product>
     <id>8264</id>
     <title>Luxe 6p villa dicht bij piste en centrum</title>
     <description>Diese luxuriöses Ferienhaus in Winterberg für 6 Personen mit Sauna ist ideal gelegen. Das Zentrum, 27 km Skipisten, Wander- und Radwege sind in der Nähe.</description>
@@ -10,8 +10,8 @@
     <link>https://www.uplandparcs.de/information?objektTyp=luxe-6p-villa-bij-piste-en-centrum</link>
     <availability>in stock</availability>
     <category>Villa</category>
-  </category>
-  <category>
+  </product>
+  <product>
     <id>8261</id>
     <title>Luxe 8p villa bij centrum en piste</title>
     <description>Diese luxuriöses 8 Personen Ferienhaus mit Sauna befindet sich in idealer Lage. Nahe dem Skiliftkarussell Winterberg, Zentrum &amp; dem Erlebnisberg Kappe.</description>
@@ -21,8 +21,8 @@
     <link>https://www.uplandparcs.de/information?objektTyp=luxe-8p-villa-bij-centrum-en-piste</link>
     <availability>in stock</availability>
     <category>Villa</category>
-  </category>
-  <category>
+  </product>
+  <product>
     <id>8267</id>
     <title>Luxe en ruime 12p villa nabij piste en centrum </title>
     <description>Diese luxuriöse Ferienvilla mit Sauna für 12 Personen ist ideal in Winterberg gelegen. Die Skipisten und das Zentrum sind fußläufig erreichbar.</description>
@@ -32,8 +32,8 @@
     <link>https://www.uplandparcs.de/information?objektTyp=luxe-en-ruim-12p-villa-nabij-piste-en-centrum</link>
     <availability>in stock</availability>
     <category>Villa</category>
-  </category>
-  <category>
+  </product>
+  <product>
     <id>8270</id>
     <title>Luxe 4p cottage vlak bij centrum en piste</title>
     <description>Dieses 4 Personen Cottage mit Kaminofen in Winterberg ist ideal gelegen - 27 km Skipisten &amp; Zentrum sind fußläufig erreichbar.</description>
@@ -43,5 +43,5 @@
     <link>https://www.uplandparcs.de/information?objektTyp=luxe-4p-cottage-vlak-bij-centrum-en-piste</link>
     <availability>in stock</availability>
     <category>Cottage</category>
-  </category>
-</categories>
+  </product>
+</products>
