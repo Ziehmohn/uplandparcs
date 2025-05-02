@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <products>
   <product>
     <id>8264</id>
@@ -9,8 +9,6 @@
     <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1025%2Frecreation%2Fobjecttype%2F8264%2F124332.jpg&amp;w=1920&amp;q=75</image_link>
     <link>https://www.uplandparcs.de/information?objektTyp=luxe-6p-villa-bij-piste-en-centrum</link>
     <availability>in stock</availability>
-    <category>Villa</category>
-    <category_id>2</category_id>
   </product>
   <product>
     <id>8261</id>
@@ -21,8 +19,6 @@
     <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1025%2Frecreation%2Fobjecttype%2F8261%2F124335.jpg&amp;w=1920&amp;q=75</image_link>
     <link>https://www.uplandparcs.de/information?objektTyp=luxe-8p-villa-bij-centrum-en-piste</link>
     <availability>in stock</availability>
-    <category>Villa</category>
-    <category_id>2</category_id>
   </product>
   <product>
     <id>8267</id>
@@ -33,8 +29,6 @@
     <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1025%2Frecreation%2Fobjecttype%2F8267%2F124338.jpg&amp;w=1920&amp;q=75</image_link>
     <link>https://www.uplandparcs.de/information?objektTyp=luxe-en-ruim-12p-villa-nabij-piste-en-centrum</link>
     <availability>in stock</availability>
-    <category>Villa</category>
-    <category_id>2</category_id>
   </product>
   <product>
     <id>8270</id>
@@ -45,7 +39,5 @@
     <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1025%2Frecreation%2Fobjecttype%2F8270%2F77331.jpg&amp;w=1920&amp;q=75</image_link>
     <link>https://www.uplandparcs.de/information?objektTyp=luxe-4p-cottage-vlak-bij-centrum-en-piste</link>
     <availability>in stock</availability>
-    <category>Cottage</category>
-    <category_id>1</category_id>
   </product>
 </products>
