@@ -1,44 +1,112 @@
 <?xml version="1.0" ?>
 <rss version="2.0">
   <channel>
-    <title>UplandParcs Winterberg Feed</title>
+    <title>UplandParcs Feed</title>
     <link>https://www.uplandparcs.de</link>
     <description>Produktfeed für Spotler im RSS 2.0 Format</description>
+    <category>
+      <id>1</id>
+      <title>Cottage</title>
+    </category>
     <category>
       <id>2</id>
       <title>Villa</title>
     </category>
     <category>
-      <id>1</id>
-      <title>Cottage</title>
+      <id>3</id>
+      <title>Apartment</title>
+    </category>
+    <category>
+      <id>4</id>
+      <title>Penthouse</title>
+    </category>
+    <category>
+      <id>5</id>
+      <title>Glamping tent</title>
+    </category>
+    <category>
+      <id>6</id>
+      <title>Boomhut</title>
     </category>
     <item>
       <id>8264</id>
       <title>Luxe 6p villa dicht bij piste en centrum</title>
-      <description>&lt;![CDATA[Diese luxuriöses Ferienhaus in Winterberg für 6 Personen mit Sauna ist ideal gelegen. Das Zentrum, 27 km Skipisten, Wander- und Radwege sind in der Nähe.]]&gt;</description>
+      <description><![CDATA[Diese luxuriöses Ferienhaus in Winterberg für 6 Personen mit Sauna ist ideal gelegen. Das Zentrum, 27 km Skipisten, Wander- und Radwege sind in der Nähe.]]></description>
       <link>https://www.uplandparcs.de/information?objektTyp=luxe-6p-villa-bij-piste-en-centrum</link>
       <category_id>2</category_id>
+      <park>Winterberg</park>
     </item>
     <item>
       <id>8261</id>
       <title>Luxe 8p villa bij centrum en piste</title>
-      <description>&lt;![CDATA[Diese luxuriöses 8 Personen Ferienhaus mit Sauna befindet sich in idealer Lage. Nahe dem Skiliftkarussell Winterberg, Zentrum &amp; dem Erlebnisberg Kappe.]]&gt;</description>
+      <description><![CDATA[Diese luxuriöses 8 Personen Ferienhaus mit Sauna befindet sich in idealer Lage. Nahe dem Skiliftkarussell Winterberg, Zentrum &amp; dem Erlebnisberg Kappe.]]></description>
       <link>https://www.uplandparcs.de/information?objektTyp=luxe-8p-villa-bij-centrum-en-piste</link>
       <category_id>2</category_id>
+      <park>Winterberg</park>
     </item>
     <item>
       <id>8267</id>
       <title>Luxe en ruime 12p villa nabij piste en centrum </title>
-      <description>&lt;![CDATA[Diese luxuriöse Ferienvilla mit Sauna für 12 Personen ist ideal in Winterberg gelegen. Die Skipisten und das Zentrum sind fußläufig erreichbar.]]&gt;</description>
+      <description><![CDATA[Diese luxuriöse Ferienvilla mit Sauna für 12 Personen ist ideal in Winterberg gelegen. Die Skipisten und das Zentrum sind fußläufig erreichbar.]]></description>
       <link>https://www.uplandparcs.de/information?objektTyp=luxe-en-ruim-12p-villa-nabij-piste-en-centrum</link>
       <category_id>2</category_id>
+      <park>Winterberg</park>
     </item>
     <item>
       <id>8270</id>
       <title>Luxe 4p cottage vlak bij centrum en piste</title>
-      <description>&lt;![CDATA[Dieses 4 Personen Cottage mit Kaminofen in Winterberg ist ideal gelegen - 27 km Skipisten &amp; Zentrum sind fußläufig erreichbar.]]&gt;</description>
+      <description><![CDATA[Dieses 4 Personen Cottage mit Kaminofen in Winterberg ist ideal gelegen - 27 km Skipisten &amp; Zentrum sind fußläufig erreichbar.]]></description>
       <link>https://www.uplandparcs.de/information?objektTyp=luxe-4p-cottage-vlak-bij-centrum-en-piste</link>
       <category_id>1</category_id>
+      <park>Winterberg</park>
+    </item>
+    <item>
+      <id>10491</id>
+      <title>4+2p Luxus Cottage</title>
+      <description><![CDATA[Luxuriöses 4+2-Personen-Ferienhaus in Winterberg-Niedersfeld, 100 m vom Skigebiet entfernt, in ruhiger und natürlicher Umgebung.]]></description>
+      <link>https://www.uplandparcs.de/information?objektTyp=luxe-6p-cottage-met-bbq</link>
+      <category_id>1</category_id>
+      <park>Sauerland</park>
+    </item>
+    <item>
+      <id>10494</id>
+      <title>4p Luxe Cottage</title>
+      <description></description>
+      <link>https://www.uplandparcs.de/information?objektTyp=luxe-4p-cottage-met-bbq</link>
+      <category_id>1</category_id>
+      <park>Sauerland</park>
+    </item>
+    <item>
+      <id>10497</id>
+      <title>4P Wellness Cottage met Hottub</title>
+      <description><![CDATA[Ferienunterkunft in Pistennähe in Winterberg-Niedersfeld, Luxus-Ferienhaus mit eigenem Hot Tub und Dachterrasse]]></description>
+      <link>https://www.uplandparcs.de/information?objektTyp=4p-wellness-cottage-met-hottub</link>
+      <category_id>1</category_id>
+      <park>Sauerland</park>
+    </item>
+    <item>
+      <id>10500</id>
+      <title>4+2P Kinder Cottage</title>
+      <description><![CDATA[Luxuriöses 4+2P-Kindercottage in Winterberg - Ideal für Ferien mit Kindern, eigene Rutsche & Spielzeug! Spielplätze im Park.]]></description>
+      <link>https://www.uplandparcs.de/information?objektTyp=6p-kinder-cottage</link>
+      <category_id>1</category_id>
+      <park>Sauerland</park>
+    </item>
+    <item>
+      <id>10503</id>
+      <title>5P glamping tent</title>
+      <description><![CDATA[Glampingzelt für 5 Personen in Winterberg, Sauerland, NRW ☆ Exzellenter Komfort ☆ Jetzt buchen!]]></description>
+      <link>https://www.uplandparcs.de/information?objektTyp=luxe-5p-glamping-tent</link>
+      <category_id>5</category_id>
+      <park>Sauerland</park>
+    </item>
+    <item>
+      <id>10506</id>
+      <title>4P boomhut met glijbaan</title>
+      <description><![CDATA[Ein einzigartiges Baumhaus mitten in der Natur des Sauerlandes. Genießen Sie die Aussicht und rutschen Sie die Baumhaus-Rutsche hinab!]]></description>
+      <link>https://www.uplandparcs.de/information?objektTyp=luxe-4p-boomhut-met-glijbaan</link>
+      <category_id>6</category_id>
+      <park>Sauerland</park>
     </item>
   </channel>
 </rss>
