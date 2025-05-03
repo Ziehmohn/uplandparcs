@@ -1,36 +1,43 @@
-<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
-  <channel>
-    <title>UplandParcs Winterberg Feed</title>
-    <link>https://www.uplandparcs.de</link>
-    <description>Produktfeed für Spotler im RSS 2.0 Format</description>
-    <item>
-      <guid>8264</guid>
-      <title>Luxe 6p villa dicht bij piste en centrum</title>
-      <description>Diese luxuriöses Ferienhaus in Winterberg für 6 Personen mit Sauna ist ideal gelegen. Das Zentrum, 27 km Skipisten, Wander- und Radwege sind in der Nähe.</description>
-      <link>https://www.uplandparcs.de/information?objektTyp=luxe-6p-villa-bij-piste-en-centrum</link>
-      <category>2</category>
-    </item>
-    <item>
-      <guid>8261</guid>
-      <title>Luxe 8p villa bij centrum en piste</title>
-      <description>Diese luxuriöses 8 Personen Ferienhaus mit Sauna befindet sich in idealer Lage. Nahe dem Skiliftkarussell Winterberg, Zentrum &amp; dem Erlebnisberg Kappe.</description>
-      <link>https://www.uplandparcs.de/information?objektTyp=luxe-8p-villa-bij-centrum-en-piste</link>
-      <category>2</category>
-    </item>
-    <item>
-      <guid>8267</guid>
-      <title>Luxe en ruime 12p villa nabij piste en centrum </title>
-      <description>Diese luxuriöse Ferienvilla mit Sauna für 12 Personen ist ideal in Winterberg gelegen. Die Skipisten und das Zentrum sind fußläufig erreichbar.</description>
-      <link>https://www.uplandparcs.de/information?objektTyp=luxe-en-ruim-12p-villa-nabij-piste-en-centrum</link>
-      <category>2</category>
-    </item>
-    <item>
-      <guid>8270</guid>
-      <title>Luxe 4p cottage vlak bij centrum en piste</title>
-      <description>Dieses 4 Personen Cottage mit Kaminofen in Winterberg ist ideal gelegen - 27 km Skipisten &amp; Zentrum sind fußläufig erreichbar.</description>
-      <link>https://www.uplandparcs.de/information?objektTyp=luxe-4p-cottage-vlak-bij-centrum-en-piste</link>
-      <category>1</category>
-    </item>
-  </channel>
+<channel>
+<title>UplandParcs Winterberg Feed</title>
+<link>https://www.uplandparcs.de</link>
+<description>Produktfeed für Spotler im RSS 2.0 Format</description>
+<category>
+<id>2</id>
+<title>Villa</title>
+</category>
+<category>
+<id>1</id>
+<title>Cottage</title>
+</category>
+<item>
+<id>8264</id>
+<title>Luxe 6p villa dicht bij piste en centrum</title>
+<description>Diese luxuriöses Ferienhaus in Winterberg für 6 Personen mit Sauna ist ideal gelegen. Das Zentrum, 27 km Skipisten, Wander- und Radwege sind in der Nähe.</description>
+<link>https://www.uplandparcs.de/information?objektTyp=luxe-6p-villa-bij-piste-en-centrum</link>
+<category_id>2</category_id>
+</item>
+<item>
+<id>8261</id>
+<title>Luxe 8p villa bij centrum en piste</title>
+<description>Diese luxuriöses 8 Personen Ferienhaus mit Sauna befindet sich in idealer Lage. Nahe dem Skiliftkarussell Winterberg, Zentrum & dem Erlebnisberg Kappe.</description>
+<link>https://www.uplandparcs.de/information?objektTyp=luxe-8p-villa-bij-centrum-en-piste</link>
+<category_id>2</category_id>
+</item>
+<item>
+<id>8267</id>
+<title>Luxe en ruime 12p villa nabij piste en centrum </title>
+<description>Diese luxuriöse Ferienvilla mit Sauna für 12 Personen ist ideal in Winterberg gelegen. Die Skipisten und das Zentrum sind fußläufig erreichbar.</description>
+<link>https://www.uplandparcs.de/information?objektTyp=luxe-en-ruim-12p-villa-nabij-piste-en-centrum</link>
+<category_id>2</category_id>
+</item>
+<item>
+<id>8270</id>
+<title>Luxe 4p cottage vlak bij centrum en piste</title>
+<description>Dieses 4 Personen Cottage mit Kaminofen in Winterberg ist ideal gelegen - 27 km Skipisten & Zentrum sind fußläufig erreichbar.</description>
+<link>https://www.uplandparcs.de/information?objektTyp=luxe-4p-cottage-vlak-bij-centrum-en-piste</link>
+<category_id>1</category_id>
+</item>
+</channel>
 </rss>
