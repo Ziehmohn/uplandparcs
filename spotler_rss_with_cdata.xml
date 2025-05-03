@@ -298,5 +298,50 @@
   <category_id>4</category_id>
   <park>Residence Astenberg</park>
 </item>
-  </channel>
+<item>
+  <id>9167</id>
+  <title>Sfeervol 6p huis vlak bij centrum</title>
+  <description><![CDATA[Sfeervol 6p huis vlak bij centrum]]></description>
+  <link>https://www.uplandparcs.de/information?objektTyp=sfeervol-6p-huis-vlak-bij-centrum</link>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1010%2Frecreation%2Fobjecttype%2F9167%2F133455.jpg&w=3840&q=20</image_link>
+  <category_id>2</category_id>
+  <park>Dumel</park>
+</item>
+    <item>
+  <id>20532</id>
+  <title>Modern 4P appartement op toplocatie</title>
+  <description><![CDATA[Modern 4P appartement op toplocatie]]></description>
+  <link>https://www.uplandparcs.de/information?objektTyp=modern-4p-appartement-op-toplocatie</link>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1386%2Frecreation%2Fobjecttype%2F20532%2F136134.jpg&w=3840&q=20</image_link>
+  <category_id>3</category_id>
+  <park>Residence Winterberg</park>
+</item>
+<item>
+  <id>20535</id>
+  <title>Modern 6P Appartement op toplocatie</title>
+  <description><![CDATA[Modern 6P Appartement op toplocatie]]></description>
+  <link>https://www.uplandparcs.de/information?objektTyp=modern-6p-appartement-op-toplocatie</link>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1386%2Frecreation%2Fobjecttype%2F20535%2F136287.jpg&w=3840&q=20</image_link>
+  <category_id>3</category_id>
+  <park>Residence Winterberg</park>
+</item>
+<item>
+  <id>20883</id>
+  <title>Modern 7P Appartement op toplocatie</title>
+  <description><![CDATA[Modern 7P Appartement op toplocatie]]></description>
+  <link>https://www.uplandparcs.de/information?objektTyp=modern-7p-appartement-op-toplocatie</link>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1386%2Frecreation%2Fobjecttype%2F20883%2F140868.jpg&w=3840&q=20</image_link>
+  <category_id>3</category_id>
+  <park>Residence Winterberg</park>
+</item>
+<item>
+  <id>20538</id>
+  <title>Modern 8P Appartement op toplocatie</title>
+  <description><![CDATA[Modern 8P Appartement op toplocatie]]></description>
+  <link>https://www.uplandparcs.de/information?objektTyp=modern-8p-appartement-op-toplocatie</link>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1386%2Frecreation%2Fobjecttype%2F20538%2F136116.jpg&w=3840&q=20</image_link>
+  <category_id>3</category_id>
+  <park>Residence Winterberg</park>
+</item>
+</channel>
 </rss>
