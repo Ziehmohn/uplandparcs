@@ -118,5 +118,59 @@
       <category_id>6</category_id>
       <park>Sauerland</park>
     </item>
+      <item>
+    <id>9137</id>
+    <title>Stijlvol 6p appartement met uitzicht</title>
+    <description><![CDATA[Genieße die Aussicht in dieser stilvollen 6P-Wohnung! In der Nähe von 27 km Skipisten, dem Erlebnisberg Kappe und dem Bike Park Winterberg.]]></description>
+        <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1007%2Frecreation%2Fobjecttype%2F9137%2F77081.jpg&w=3840&q=20</image_link>
+    <link>https://www.uplandparcs.de/information?objektTyp=stijlvol-6p-appartement-met-uitzicht</link>
+    <category_id>3</category_id>
+    <park>Bergblick</park>
+  </item>
+  <item>
+    <id>9140</id>
+    <title>luxe 4p appartement met uitzicht</title>
+    <description><![CDATA[Genieße die Aussicht in dieser 4p-Wohnung in Winterberg! Nur wenige Minuten von 27 km Skipisten, dem Erlebnisberg Kappe und dem Bike Park entfernt.]]></description>
+    <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1007%2Frecreation%2Fobjecttype%2F9140%2F77108.jpg&w=3840&q=20</image_link>
+    <link>https://www.uplandparcs.de/information?objektTyp=luxe-4p-appartement-met-uitzicht</link>
+    <category_id>3</category_id>
+    <park>Bergblick</park>
+  </item>
+  <item>
+    <id>9143</id>
+    <title>Stijlvol 8p appartement met uitzicht</title>
+    <description><![CDATA[Von dieser 8p Wohnung in Winterberg hast du eine schöne Aussicht - 27 km Skipisten, dem Erlebnisberg Kappe und dem Bikepark in der Nähe.]]></description>
+    <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1007%2Frecreation%2Fobjecttype%2F9143%2F68913.jpg&w=3840&q=20</image_link>
+    <link>https://www.uplandparcs.de/information?objektTyp=stijvol-8p-appartement-met-uitzicht</link>
+    <category_id>3</category_id>
+    <park>Bergblick</park>
+  </item>
+  <item>
+    <id>9146</id>
+    <title>Luxe 6p appartement met uitzicht</title>
+    <description><![CDATA[Diese Wohnung für 6p in Winterberg ist ideal gelegen und bietet eine schöne Aussicht - in der Nähe des Skiliftkarussells mit 27 km Pisten und dem Bikepark]]></description>
+    <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1007%2Frecreation%2Fobjecttype%2F9146%2F69009.jpg&w=3840&q=20</image_link>
+    <link>https://www.uplandparcs.de/information?objektTyp=luxe-6p-appartement-met-uitzicht</link>
+    <category_id>3</category_id>
+    <park>Bergblick</park>
+  </item>
+  <item>
+    <id>9149</id>
+    <title>Stijlvol 5p penthouse met uitzicht</title>
+    <description><![CDATA[Dieses 5p-Penthouse in Winterberg hat eine fantastische Aussicht. In der Nähe: 27 km Pisten, Erlebnisberg Kappe, der Bikepark, das Zentrum & Natur.]]></description>
+    <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1007%2Frecreation%2Fobjecttype%2F9149%2F69042.jpg&w=3840&q=20</image_link>
+    <link>https://www.uplandparcs.de/information?objektTyp=stijvol-5p-penthouse-met-uitzicht</link>
+    <category_id>4</category_id>
+    <park>Bergblick</park>
+  </item>
+  <item>
+    <id>9152</id>
+    <title>Stijlvol 2+2p appartement met uitzicht</title>
+    <description><![CDATA[Von dieser stilvollen und luxuriösen Wohnung für 2–4 Personen hast du eine schöne Aussicht. Winterberg hat 27 km Skipisten und viele Wander- und Radwege.]]></description>
+    <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1007%2Frecreation%2Fobjecttype%2F9152%2F77111.jpg&w=3840&q=20</image_link>
+    <link>https://www.uplandparcs.de/information?objektTyp=stijlvol-2-2-appartement-met-uitzicht</link>
+    <category_id>3</category_id>
+    <park>Bergblick</park>
+  </item>
   </channel>
 </rss>
