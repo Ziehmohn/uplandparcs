@@ -226,5 +226,77 @@
     <category_id>4</category_id>
     <park>Bergresidence</park>
   </item>
+    <item>
+  <id>30101</id>
+  <title>Sfeervol 5p appartement ski-in ski-out</title>
+  <description><![CDATA[Sfeervol 5p appartement ski-in ski-out]]></description>
+  <link>https://www.uplandparcs.de/information?objektTyp=sfeervol-5p-appartement-ski-in-ski-out</link>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1019%2Frecreation%2Fobjecttype%2F10290%2F77361.jpg&w=3840&q=20</image_link>
+  <category_id>3</category_id>
+  <park>Residence Astenberg</park>
+</item>
+<item>
+  <id>30102</id>
+  <title>Sfeervol 8p appartement aan de piste</title>
+  <description><![CDATA[Sfeervol 8p appartement aan de piste]]></description>
+  <link>https://www.uplandparcs.de/information?objektTyp=sfeervol-8p-appartement-aan-de-piste</link>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1019%2Frecreation%2Fobjecttype%2F9161%2F94052.jpg&w=3840&q=20</image_link>
+  <category_id>3</category_id>
+  <park>Residence Astenberg</park>
+</item>
+<item>
+  <id>30103</id>
+  <title>Sfeervol 4p appartement aan de piste</title>
+  <description><![CDATA[Sfeervol 4p appartement aan de piste]]></description>
+  <link>https://www.uplandparcs.de/information?objektTyp=sfeervol-4p-appartement-aan-de-piste</link>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1019%2Frecreation%2Fobjecttype%2F10207%2F74581.jpg&w=3840&q=20</image_link>
+  <category_id>3</category_id>
+  <park>Residence Astenberg</park>
+</item>
+<item>
+  <id>30104</id>
+  <title>Sfeervol 5p appartement aan de piste</title>
+  <description><![CDATA[Sfeervol 5p appartement aan de piste]]></description>
+  <link>https://www.uplandparcs.de/information?objektTyp=sfeervol-5p-appartement-aan-de-piste</link>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1019%2Frecreation%2Fobjecttype%2F9399%2F69834.jpg&w=3840&q=20</image_link>
+  <category_id>3</category_id>
+  <park>Residence Astenberg</park>
+</item>
+<item>
+  <id>30105</id>
+  <title>Sfeervol 6p penthouse direct aan de piste</title>
+  <description><![CDATA[Sfeervol 6p penthouse direct aan de piste]]></description>
+  <link>https://www.uplandparcs.de/information?objektTyp=sfeervol-6p-penthouse-direct-aan-de-piste</link>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1019%2Frecreation%2Fobjecttype%2F9519%2F123903.jpg&w=3840&q=20</image_link>
+  <category_id>4</category_id>
+  <park>Residence Astenberg</park>
+</item>
+<item>
+  <id>30106</id>
+  <title>Sfeervol 6p penthouse direct aan de skipiste</title>
+  <description><![CDATA[Sfeervol 6p penthouse direct aan de skipiste]]></description>
+  <link>https://www.uplandparcs.de/information?objektTyp=sfeervol-6p-penthouse-direct-aan-de-skipiste</link>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1019%2Frecreation%2Fobjecttype%2F9402%2F68559.jpg&w=3840&q=20</image_link>
+  <category_id>4</category_id>
+  <park>Residence Astenberg</park>
+</item>
+<item>
+  <id>30107</id>
+  <title>Sfeervol 7p penthouse ski-in ski-out</title>
+  <description><![CDATA[Sfeervol 7p penthouse ski-in ski-out]]></description>
+  <link>https://www.uplandparcs.de/information?objektTyp=sfeervol-7p-penthouse-ski-in-ski-out</link>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1019%2Frecreation%2Fobjecttype%2F9522%2F133509.jpg&w=3840&q=20</image_link>
+  <category_id>4</category_id>
+  <park>Residence Astenberg</park>
+</item>
+<item>
+  <id>30108</id>
+  <title>Sfeervol 8p penthouse ski-in ski-out</title>
+  <description><![CDATA[Sfeervol 8p penthouse ski-in ski-out]]></description>
+  <link>https://www.uplandparcs.de/information?objektTyp=sfeervol-8p-penthouse-ski-in-ski-out</link>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1019%2Frecreation%2Fobjecttype%2F9525%2F68709.jpg&w=3840&q=20</image_link>
+  <category_id>4</category_id>
+  <park>Residence Astenberg</park>
+</item>
   </channel>
 </rss>
