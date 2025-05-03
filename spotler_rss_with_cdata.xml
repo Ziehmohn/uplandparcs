@@ -343,5 +343,104 @@
   <category_id>3</category_id>
   <park>Residence Winterberg</park>
 </item>
+<item>
+  <id>Weitblick-1</id>
+  <title>4P appartement met sauna</title>
+  <description><![CDATA[4P appartement met sauna]]></description>
+  <link>https://www.uplandparcs.de/information?objektTyp=4p-sauna</link>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1277%2Frecreation%2Fobjecttype%2F17595%2F113316.jpg&w=3840&q=20</image_link>
+  <category_id>3</category_id>
+  <park>Weitblick Winterberg</park>
+</item>
+<item>
+  <id>Weitblick-2</id>
+  <title>4-6P appartement met sauna</title>
+  <description><![CDATA[4-6P appartement met sauna]]></description>
+  <link>https://www.uplandparcs.de/information?objektTyp=4-6p-sauna</link>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1277%2Frecreation%2Fobjecttype%2F17648%2F113358.jpg&w=3840&q=20</image_link>
+  <category_id>3</category_id>
+  <park>Weitblick Winterberg</park>
+</item>
+<item>
+  <id>Weitblick-3</id>
+  <title>4P appartement met jacuzzi</title>
+  <description><![CDATA[4P appartement met jacuzzi]]></description>
+  <link>https://www.uplandparcs.de/information?objektTyp=4p-jacuzzi</link>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1277%2Frecreation%2Fobjecttype%2F17598%2F113430.jpg&w=3840&q=20</image_link>
+  <category_id>3</category_id>
+  <park>Weitblick Winterberg</park>
+</item>
+<item>
+  <id>Weitblick-4</id>
+  <title>4-6P appartement met sauna en jacuzzi</title>
+  <description><![CDATA[4-6P appartement met sauna en jacuzzi]]></description>
+  <link>https://www.uplandparcs.de/information?objektTyp=4-6p-jacuzzi</link>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1277%2Frecreation%2Fobjecttype%2F17642%2F113490.jpg&w=3840&q=20</image_link>
+  <category_id>3</category_id>
+  <park>Weitblick Winterberg</park>
+</item>
+<item>
+  <id>Weitblick-5</id>
+  <title>6P appartement met sauna</title>
+  <description><![CDATA[6P appartement met sauna]]></description>
+  <link>https://www.uplandparcs.de/information?objektTyp=6p-sauna</link>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1277%2Frecreation%2Fobjecttype%2F17601%2F113547.jpg&w=3840&q=75</image_link>
+  <category_id>3</category_id>
+  <park>Weitblick Winterberg</park>
+</item>
+<item>
+  <id>Weitblick-6</id>
+  <title>6-8P appartement met sauna</title>
+  <description><![CDATA[6-8P appartement met sauna]]></description>
+  <link>https://www.uplandparcs.de/information?objektTyp=6-8p-sauna</link>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1277%2Frecreation%2Fobjecttype%2F17604%2F113685.jpg&w=3840&q=20</image_link>
+  <category_id>3</category_id>
+  <park>Weitblick Winterberg</park>
+</item>
+<item>
+  <id>Weitblick-7</id>
+  <title>6-8P appartement met sauna en jacuzzi</title>
+  <description><![CDATA[6-8P appartement met sauna en jacuzzi]]></description>
+  <link>https://www.uplandparcs.de/information?objektTyp=6-8p-jacuzzi</link>
+  <image_link></image_link>
+  <category_id>3</category_id>
+  <park>Weitblick Winterberg</park>
+</item>
+<item>
+  <id>Weitblick-8</id>
+  <title>8P appartement met sauna</title>
+  <description><![CDATA[8P appartement met sauna]]></description>
+  <link>https://www.uplandparcs.de/information?objektTyp=8p-sauna</link>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1277%2Frecreation%2Fobjecttype%2F17607%2F113745.jpg&w=3840&q=20</image_link>
+  <category_id>3</category_id>
+  <park>Weitblick Winterberg</park>
+</item>
+<item>
+  <id>Weitblick-9</id>
+  <title>8P appartement met sauna en jacuzzi</title>
+  <description><![CDATA[8P appartement met sauna en jacuzzi]]></description>
+  <link>https://www.uplandparcs.de/information?objektTyp=8p-jacuzzi</link>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1277%2Frecreation%2Fobjecttype%2F17610%2F113898.jpg&w=3840&q=20</image_link>
+  <category_id>3</category_id>
+  <park>Weitblick Winterberg</park>
+</item>
+<item>
+  <id>Weitblick-10</id>
+  <title>10P Penthouse met sauna en jacuzzi</title>
+  <description><![CDATA[10P Penthouse met sauna en jacuzzi]]></description>
+  <link>https://www.uplandparcs.de/information?objektTyp=10p-penthouse</link>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1277%2Frecreation%2Fobjecttype%2F17613%2F113967.jpg&w=3840&q=20</image_link>
+  <category_id>4</category_id>
+  <park>Weitblick Winterberg</park>
+</item>
+<item>
+  <id>Weitblick-11</id>
+  <title>8P Penthouse met sauna en jacuzzi</title>
+  <description><![CDATA[8P Penthouse met sauna en jacuzzi]]></description>
+  <link>https://www.uplandparcs.de/information?objektTyp=8p-penthouse</link>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1277%2Frecreation%2Fobjecttype%2F17616%2F113934.jpg&w=3840&q=20</image_link>
+  <category_id>4</category_id>
+  <park>Weitblick Winterberg</park>
+</item>   
 </channel>
 </rss>
