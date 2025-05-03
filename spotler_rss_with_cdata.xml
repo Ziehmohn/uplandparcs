@@ -172,5 +172,59 @@
     <category_id>3</category_id>
     <park>Bergblick</park>
   </item>
+      <item>
+    <id>19746</id>
+    <title>sfeervol 2P studio met uitzicht</title>
+    <description><![CDATA[sfeervol 2P studio met uitzicht]]></description>
+    <link>https://www.uplandparcs.de/information?objektTyp=sfeervol-2p-studio-met-uitzicht</link>
+    <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1320%2Frecreation%2Fobjecttype%2F19746%2F115800.jpg&w=3840&q=20</image_link>
+    <category_id>3</category_id>
+    <park>Bergresidence</park>
+  </item>
+  <item>
+    <id>19749</id>
+    <title>sfeervol 2+2P appartement met uitzicht</title>
+    <description><![CDATA[sfeervol 2+2P appartement met uitzicht]]></description>
+    <link>https://www.uplandparcs.de/information?objektTyp=sfeervol-2-2p-appartement-met-uitzicht</link>
+    <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1320%2Frecreation%2Fobjecttype%2F19749%2F115866.jpg&w=3840&q=20</image_link>
+    <category_id>3</category_id>
+    <park>Bergresidence</park>
+  </item>
+  <item>
+    <id>19752</id>
+    <title>sfeervol 4+2P appartement met uitzicht</title>
+    <description><![CDATA[sfeervol 4+2P appartement met uitzicht]]></description>
+    <link>https://www.uplandparcs.de/information?objektTyp=sfeervol-4-2p-appartement-met-uitzicht</link>
+    <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1320%2Frecreation%2Fobjecttype%2F19752%2F115998.jpg&w=3840&q=20</image_link>
+    <category_id>3</category_id>
+    <park>Bergresidence</park>
+  </item>
+  <item>
+    <id>19755</id>
+    <title>sfeervol 2+2P penthouse met uitzicht</title>
+    <description><![CDATA[sfeervol 2+2P penthouse met uitzicht]]></description>
+    <link>https://www.uplandparcs.de/information?objektTyp=sfeervol-2-2p-penthouse-met-uitzicht</link>
+    <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1320%2Frecreation%2Fobjecttype%2F19755%2F115917.jpg&w=3840&q=20</image_link>
+    <category_id>4</category_id>
+    <park>Bergresidence</park>
+  </item>
+  <item>
+    <id>20376</id>
+    <title>luxe 2+2P appartement met uitzicht</title>
+    <description><![CDATA[luxe 2+2P appartement met uitzicht]]></description>
+    <link>https://www.uplandparcs.de/information?objektTyp=luxe-2-2p-appartement-met-uitzicht</link>
+    <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1320%2Frecreation%2Fobjecttype%2F20376%2F130503.jpg&w=3840&q=20</image_link>
+    <category_id>3</category_id>
+    <park>Bergresidence</park>
+  </item>
+  <item>
+    <id>20385</id>
+    <title>luxe 2+2P penthouse met uitzicht</title>
+    <description><![CDATA[luxe 2+2P penthouse met uitzicht]]></description>
+    <link>https://www.uplandparcs.de/information?objektTyp=luxe-2-2p-penthouse-met-uitzicht</link>
+    <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1320%2Frecreation%2Fobjecttype%2F20385%2F131796.jpg&w=3840&q=20</image_link>
+    <category_id>4</category_id>
+    <park>Bergresidence</park>
+  </item>
   </channel>
 </rss>
