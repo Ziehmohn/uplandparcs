@@ -441,6 +441,24 @@
   <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1277%2Frecreation%2Fobjecttype%2F17616%2F113934.jpg&w=3840&q=20</image_link>
   <category_id>4</category_id>
   <park>Weitblick Winterberg</park>
-</item>   
+</item>
+    <item>
+  <id>Sauerland Lodge - 1</id>
+  <title>Haus Y</title>
+  <description><![CDATA[Haus Y]]></description>
+  <link>https://www.uplandparcs.de/information?objektTyp=huis-y</link>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1392%2Frecreation%2Fobjecttype%2F20442%2F136815.jpg&w=3840&q=20</image_link>
+  <category_id>2</category_id>
+  <park>Sauerland Lodge</park>
+</item>
+<item>
+  <id>Sauerland Lodge - 2</id>
+  <title>Haus X</title>
+  <description><![CDATA[Haus X]]></description>
+  <link>https://www.uplandparcs.de/information?objektTyp=huis-x</link>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1392%2Frecreation%2Fobjecttype%2F20439%2F136806.jpg&w=3840&q=20</image_link>
+  <category_id>2</category_id>
+  <park>Sauerland Lodge</park>
+</item>
 </channel>
 </rss>
