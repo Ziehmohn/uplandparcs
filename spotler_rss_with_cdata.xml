@@ -460,5 +460,41 @@
   <category_id>2</category_id>
   <park>Sauerland Lodge</park>
 </item>
+  <item>
+  <id>20199</id>
+  <title>Stijlvol 4p appartement vlak bij skigebied</title>
+  <description><![CDATA[Stijlvol 4p appartement vlak bij skigebied]]></description>
+  <link>https://www.uplandparcs.de/information?objektTyp=stijlvol-4p-appartement-vlak-bij-skigebied</link>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1016%2Frecreation%2Fobjecttype%2F20199%2F134943.jpg&w=3840&q=20</image_link>
+  <category_id>3</category_id>
+  <park>Montafon</park>
+</item>
+<item>
+  <id>9173</id>
+  <title>Stijlvol 5p appartement vlak bij skigebied</title>
+  <description><![CDATA[Stijlvol 5p appartement vlak bij skigebied]]></description>
+  <link>https://www.uplandparcs.de/information?objektTyp=stijlvol-5p-appartement-vlak-bij-skigebied</link>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1016%2Frecreation%2Fobjecttype%2F9173%2F69639.jpeg&w=3840&q=75</image_link>
+  <category_id>3</category_id>
+  <park>Montafon</park>
+</item>
+<item>
+  <id>9170</id>
+  <title>Stijlvol 7p appartement dicht bij skigebied</title>
+  <description><![CDATA[Stijlvol 7p appartement dicht bij skigebied]]></description>
+  <link>https://www.uplandparcs.de/information?objektTyp=stijlvol-7p-appartement-dicht-bij-skigebied</link>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1016%2Frecreation%2Fobjecttype%2F9170%2F73621.jpg&w=3840&q=20</image_link>
+  <category_id>3</category_id>
+  <park>Montafon</park>
+</item>
+<item>
+  <id>9176</id>
+  <title>9p penthouse met dakterras nabij skigebied</title>
+  <description><![CDATA[9p penthouse met dakterras nabij skigebied]]></description>
+  <link>https://www.uplandparcs.de/information?objektTyp=9p-penthouse-met-dakterras-nabij-skigebied</link>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1016%2Frecreation%2Fobjecttype%2F9176%2F69420.jpeg&w=3840&q=20</image_link>
+  <category_id>4</category_id>
+  <park>Montafon</park>
+</item>
 </channel>
 </rss>
