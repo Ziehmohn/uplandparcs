@@ -504,10 +504,7 @@
   </category_ids>
   <park>UplandParcs Dumel</park>
   <parent_id>6</parent_id>
-  <wunschlagen>
-  <wunschlage>5</wunschlage>
-  <wunschlage>5a</wunschlage>
-  </wunschlagen>
+    <wunschlage></wunschlage>
 </item>
     <item>
   <id>20532</id>
