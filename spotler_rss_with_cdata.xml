@@ -91,8 +91,10 @@
       <description><![CDATA[Diese luxuriöses 8 Personen Ferienhaus mit Sauna befindet sich in idealer Lage. Nahe dem Skiliftkarussell Winterberg, Zentrum &amp; dem Erlebnisberg Kappe.]]></description>
       <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1025%2Frecreation%2Fobjecttype%2F8261%2F74326.jpg&w=3840&q=75</image_link>
       <link>https://www.uplandparcs.de/information?objektTyp=luxe-8p-villa-bij-centrum-en-piste</link>
-      <category_id>2</category_id>
-      <category_id>108</category_id>
+      <category_ids>
+        <category_id>2</category_id>
+        <category_id>108</category_id>
+        </category_ids>
       <park>UplandParcs Winterberg</park>
       <parent_id>1</parent_id>
     </item>
@@ -102,8 +104,10 @@
       <description><![CDATA[Diese luxuriöse Ferienvilla mit Sauna für 12 Personen ist ideal in Winterberg gelegen. Die Skipisten und das Zentrum sind fußläufig erreichbar.]]></description>
       <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1025%2Frecreation%2Fobjecttype%2F8267%2F124338.jpg&w=3840&q=75</image_link>
       <link>https://www.uplandparcs.de/information?objektTyp=luxe-en-ruim-12p-villa-nabij-piste-en-centrum</link>
-      <category_id>2</category_id>
-      <category_id>108</category_id>
+      <category_ids>
+        <category_id>2</category_id>
+        <category_id>108</category_id>
+      </category_ids>
       <park>UplandParcs Winterberg</park>
       <parent_id>1</parent_id>
     </item>
@@ -113,8 +117,10 @@
       <description><![CDATA[Dieses 4 Personen Cottage mit Kaminofen in Winterberg ist ideal gelegen - 27 km Skipisten &amp; Zentrum sind fußläufig erreichbar.]]></description>
       <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1025%2Frecreation%2Fobjecttype%2F8270%2F77331.jpg&w=3840&q=75</image_link>
       <link>https://www.uplandparcs.de/information?objektTyp=luxe-4p-cottage-vlak-bij-centrum-en-piste</link>
-      <category_id>1</category_id>
-      <category_id>108</category_id>
+      <category_ids>
+        <category_id>1</category_id>
+        <category_id>108</category_id>
+      </category_ids>
       <park>UplandParcs Winterberg</park>
       <parent_id>1</parent_id>
     </item>
@@ -124,8 +130,10 @@
       <description><![CDATA[Cottage für 4 Personen mit Grill, umgeben von traumhafter Natur. Traumhaft!]]></description>
       <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1112%2Frecreation%2Fobjecttype%2F10491%2F133254.jpg&w=3840&q=20</image_link>
       <link>https://www.uplandparcs.de/information?objektTyp=luxe-6p-cottage-met-bbq</link>
-      <category_id>1</category_id>
-      <category_id>109</category_id>
+      <category_ids>
+        <category_id>1</category_id>
+        <category_id>109</category_id>
+      </category_ids>
       <park>UplandParcs Sauerland</park>
       <parent_id>2</parent_id>
     </item>
@@ -135,8 +143,10 @@
       <description><![CDATA[Luxuriöses 4+2-Personen-Ferienhaus in Winterberg-Niedersfeld, 100 m vom Skigebiet entfernt, in ruhiger und natürlicher Umgebung.]]></description>
       <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1112%2Frecreation%2Fobjecttype%2F10494%2F133269.jpg&w=3840&q=20</image_link>
       <link>https://www.uplandparcs.de/information?objektTyp=luxe-4p-cottage-met-bbq</link>
-      <category_id>1</category_id>
-      <category_id>109</category_id>
+      <category_ids>
+        <category_id>1</category_id>
+        <category_id>109</category_id>
+      </category_ids>
       <park>UplandParcs Sauerland</park>
       <parent_id>2</parent_id>
     </item>
@@ -146,8 +156,10 @@
       <description><![CDATA[Ferienunterkunft in Pistennähe in Winterberg-Niedersfeld, Luxus-Ferienhaus mit eigenem Hot Tub und Dachterrasse]]></description>
       <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1112%2Frecreation%2Fobjecttype%2F10497%2F111369.jpg&w=3840&q=20</image_link>
       <link>https://www.uplandparcs.de/information?objektTyp=4p-wellness-cottage-met-hottub</link>
-      <category_id>1</category_id>
+      <category_ids>
+        <category_id>1</category_id>
       <category_id>109</category_id>
+        </category_ids>
       <park>UplandParcs Sauerland</park>
         <parent_id>2</parent_id>
     </item>
@@ -157,10 +169,12 @@
       <description><![CDATA[Luxuriöses 4+2P-Kindercottage in Winterberg - Ideal für Ferien mit Kindern, eigene Rutsche & Spielzeug! Spielplätze im Park.]]></description>
       <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1112%2Frecreation%2Fobjecttype%2F10500%2F111027.jpg&w=3840&q=20</image_link>
       <link>https://www.uplandparcs.de/information?objektTyp=6p-kinder-cottage</link>
-      <category_id>1</category_id>
-      <category_id>109</category_id>
+      <category_ids>
+        <category_id>1</category_id>
+        <category_id>109</category_id>
+      </category_ids>
       <park>UplandParcs Sauerland</park>
-        <parent_id>2</parent_id>
+      <parent_id>2</parent_id>
     </item>
     <item>
       <id>10503</id>
@@ -168,8 +182,10 @@
       <description><![CDATA[Glampingzelt für 5 Personen in Winterberg, Sauerland, NRW ☆ Exzellenter Komfort ☆ Jetzt buchen!]]></description>
       <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1112%2Frecreation%2Fobjecttype%2F10503%2F131286.jpg&w=3840&q=20</image_link>
       <link>https://www.uplandparcs.de/information?objektTyp=luxe-5p-glamping-tent</link>
-      <category_id>5</category_id>
-      <category_id>109</category_id>
+      <category_ids>
+        <category_id>5</category_id>
+        <category_id>109</category_id>
+      </category_ids>
       <park>UplandParcs Sauerland</park>
       <parent_id>2</parent_id>
     </item>
@@ -179,8 +195,10 @@
       <description><![CDATA[Ein einzigartiges Baumhaus mitten in der Natur des Sauerlandes. Genießen Sie die Aussicht und rutschen Sie die Baumhaus-Rutsche hinab!]]></description>
       <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1112%2Frecreation%2Fobjecttype%2F10506%2F131289.jpg&w=3840&q=20</image_link>
       <link>https://www.uplandparcs.de/information?objektTyp=luxe-4p-boomhut-met-glijbaan</link>
-      <category_id>6</category_id>
+      <category_ids>
+        <category_id>6</category_id>
         <category_id>109</category_id>
+      </category_ids>
       <park>UplandParcs Sauerland</park>
       <parent_id>2</parent_id>
     </item>
@@ -190,8 +208,10 @@
     <description><![CDATA[Genieße die Aussicht in dieser stilvollen 6P-Wohnung! In der Nähe von 27 km Skipisten, dem Erlebnisberg Kappe und dem Bike Park Winterberg.]]></description>
         <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1007%2Frecreation%2Fobjecttype%2F9137%2F77081.jpg&w=3840&q=20</image_link>
     <link>https://www.uplandparcs.de/information?objektTyp=stijlvol-6p-appartement-met-uitzicht</link>
-    <category_id>3</category_id>
-    <category_id>101</category_id>
+    <category_ids>
+      <category_id>3</category_id>
+      <category_id>101</category_id>
+    </category_ids>
     <park>UplandParcs Bergblick</park>
     <parent_id>3</parent_id>
   </item>
@@ -201,8 +221,10 @@
     <description><![CDATA[Genieße die Aussicht in dieser 4p-Wohnung in Winterberg! Nur wenige Minuten von 27 km Skipisten, dem Erlebnisberg Kappe und dem Bike Park entfernt.]]></description>
     <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1007%2Frecreation%2Fobjecttype%2F9140%2F77108.jpg&w=3840&q=20</image_link>
     <link>https://www.uplandparcs.de/information?objektTyp=luxe-4p-appartement-met-uitzicht</link>
-    <category_id>3</category_id>
-    <category_id>101</category_id>
+    <category_ids>
+      <category_id>3</category_id>
+      <category_id>101</category_id>
+    </category_ids>
     <park>UplandParcs Bergblick</park>
     <parent_id>3</parent_id>
   </item>
@@ -212,8 +234,10 @@
     <description><![CDATA[Von dieser 8p Wohnung in Winterberg hast du eine schöne Aussicht - 27 km Skipisten, dem Erlebnisberg Kappe und dem Bikepark in der Nähe.]]></description>
     <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1007%2Frecreation%2Fobjecttype%2F9143%2F68913.jpg&w=3840&q=20</image_link>
     <link>https://www.uplandparcs.de/information?objektTyp=stijvol-8p-appartement-met-uitzicht</link>
-    <category_id>3</category_id>
-    <category_id>101</category_id>
+    <category_ids>
+      <category_id>3</category_id>
+      <category_id>101</category_id>
+    </category_ids>
     <park>UplandParcs Bergblick</park>
     <parent_id>3</parent_id>
   </item>
@@ -223,8 +247,10 @@
     <description><![CDATA[Diese Wohnung für 6p in Winterberg ist ideal gelegen und bietet eine schöne Aussicht - in der Nähe des Skiliftkarussells mit 27 km Pisten und dem Bikepark]]></description>
     <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1007%2Frecreation%2Fobjecttype%2F9146%2F69009.jpg&w=3840&q=20</image_link>
     <link>https://www.uplandparcs.de/information?objektTyp=luxe-6p-appartement-met-uitzicht</link>
-    <category_id>3</category_id>
-    <category_id>101</category_id>
+    <category_ids>
+      <category_id>3</category_id>
+      <category_id>101</category_id>
+    </category_ids>
     <park>UplandParcs Bergblick</park>
     <parent_id>3</parent_id>
   </item>
@@ -234,8 +260,10 @@
     <description><![CDATA[Dieses 5p-Penthouse in Winterberg hat eine fantastische Aussicht. In der Nähe: 27 km Pisten, Erlebnisberg Kappe, der Bikepark, das Zentrum & Natur.]]></description>
     <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1007%2Frecreation%2Fobjecttype%2F9149%2F69042.jpg&w=3840&q=20</image_link>
     <link>https://www.uplandparcs.de/information?objektTyp=stijvol-5p-penthouse-met-uitzicht</link>
-    <category_id>4</category_id>
-    <category_id>101</category_id>
+    <category_ids>
+      <category_id>4</category_id>
+      <category_id>101</category_id>
+    </category_ids>
     <park>UplandParcs Bergblick</park>
     <parent_id>3</parent_id>
   </item>
@@ -245,8 +273,10 @@
     <description><![CDATA[Von dieser stilvollen und luxuriösen Wohnung für 2–4 Personen hast du eine schöne Aussicht. Winterberg hat 27 km Skipisten und viele Wander- und Radwege.]]></description>
     <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1007%2Frecreation%2Fobjecttype%2F9152%2F77111.jpg&w=3840&q=20</image_link>
     <link>https://www.uplandparcs.de/information?objektTyp=stijlvol-2-2-appartement-met-uitzicht</link>
-    <category_id>3</category_id>
-    <category_id>101</category_id>
+    <category_ids>
+      <category_id>3</category_id>
+      <category_id>101</category_id>
+    </category_ids>
     <park>UplandParcs Bergblick</park>
     <parent_id>3</parent_id>
   </item>
@@ -256,8 +286,10 @@
     <description><![CDATA[Gemütliches 2P Studio mit Aussicht]]></description>
     <link>https://www.uplandparcs.de/information?objektTyp=sfeervol-2p-studio-met-uitzicht</link>
     <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1320%2Frecreation%2Fobjecttype%2F19746%2F115800.jpg&w=3840&q=20</image_link>
-    <category_id>3</category_id>
-    <category_id>103</category_id>
+    <category_ids>
+      <category_id>3</category_id>
+      <category_id>103</category_id>
+    </category_ids>
     <park>UplandParcs Bergresidence</park>
     <parent_id>4</parent_id>
   </item>
@@ -267,8 +299,10 @@
     <description><![CDATA[Gemütliche 2+2P Wohnung mit Aussicht]]></description>
     <link>https://www.uplandparcs.de/information?objektTyp=sfeervol-2-2p-appartement-met-uitzicht</link>
     <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1320%2Frecreation%2Fobjecttype%2F19749%2F115866.jpg&w=3840&q=20</image_link>
-    <category_id>3</category_id>
-    <category_id>103</category_id>
+    <category_ids>
+      <category_id>3</category_id>
+      <category_id>103</category_id>
+    </category_ids>
     <park>UplandParcs Bergresidence</park>
     <parent_id>4</parent_id>
   </item>
@@ -278,8 +312,10 @@
     <description><![CDATA[Gemütliche 4+2P Wohnung mit Aussicht]]></description>
     <link>https://www.uplandparcs.de/information?objektTyp=sfeervol-4-2p-appartement-met-uitzicht</link>
     <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1320%2Frecreation%2Fobjecttype%2F19752%2F115998.jpg&w=3840&q=20</image_link>
-    <category_id>3</category_id>
-    <category_id>103</category_id>
+    <category_ids>
+      <category_id>3</category_id>
+      <category_id>103</category_id>
+    </category_ids>
     <park>UplandParcs Bergresidence</park>
     <parent_id>4</parent_id>
   </item>
@@ -289,8 +325,10 @@
     <description><![CDATA[Gemütliches 2+2P Penthouse mit Aussicht]]></description>
     <link>https://www.uplandparcs.de/information?objektTyp=sfeervol-2-2p-penthouse-met-uitzicht</link>
     <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1320%2Frecreation%2Fobjecttype%2F19755%2F115917.jpg&w=3840&q=20</image_link>
-    <category_id>4</category_id>
-    <category_id>103</category_id>
+    <category_ids>
+      <category_id>4</category_id>
+      <category_id>103</category_id>
+    </category_ids>
     <park>UplandParcs Bergresidence</park>
     <parent_id>4</parent_id>
   </item>
@@ -300,8 +338,10 @@
     <description><![CDATA[Luxus 2+2 Wohnung mit Aussicht]]></description>
     <link>https://www.uplandparcs.de/information?objektTyp=luxe-2-2p-appartement-met-uitzicht</link>
     <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1320%2Frecreation%2Fobjecttype%2F20376%2F130503.jpg&w=3840&q=20</image_link>
-    <category_id>3</category_id>
-    <category_id>103</category_id>
+    <category_ids>
+      <category_id>3</category_id>
+      <category_id>103</category_id>
+    </category_ids>
     <park>UplandParcs Bergresidence</park>
     <parent_id>4</parent_id>
   </item>
@@ -311,8 +351,10 @@
     <description><![CDATA[Luxus 2+2P Penthouse mit Aussicht]]></description>
     <link>https://www.uplandparcs.de/information?objektTyp=luxe-2-2p-penthouse-met-uitzicht</link>
     <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1320%2Frecreation%2Fobjecttype%2F20385%2F131796.jpg&w=3840&q=20</image_link>
-    <category_id>4</category_id>
-    <category_id>103</category_id>
+    <category_ids>
+      <category_id>4</category_id>
+      <category_id>103</category_id>
+    </category_ids>
     <park>UplandParcs Bergresidence</park>
     <parent_id>4</parent_id>
   </item>
@@ -322,8 +364,10 @@
   <description><![CDATA[Gemütliche 5P Wohnung an der Piste]]></description>
   <link>https://www.uplandparcs.de/information?objektTyp=sfeervol-5p-appartement-ski-in-ski-out</link>
   <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1019%2Frecreation%2Fobjecttype%2F10290%2F77361.jpg&w=3840&q=20</image_link>
-  <category_id>3</category_id>
-  <category_id>106</category_id>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>106</category_id>
+  </category_ids>
   <park>UplandParcs Residence Astenberg</park>
   <parent_id>5</parent_id>
 </item>
@@ -333,8 +377,10 @@
   <description><![CDATA[Gemütliche 8P Wohnung an der Piste]]></description>
   <link>https://www.uplandparcs.de/information?objektTyp=sfeervol-8p-appartement-aan-de-piste</link>
   <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1019%2Frecreation%2Fobjecttype%2F9161%2F94052.jpg&w=3840&q=20</image_link>
-  <category_id>3</category_id>
-  <category_id>106</category_id>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>106</category_id>
+  </category_ids>
   <park>UplandParcs Residence Astenberg</park>
   <parent_id>5</parent_id>
 </item>
@@ -344,8 +390,10 @@
   <description><![CDATA[Gemütliche 4P Wohnung an der Piste]]></description>
   <link>https://www.uplandparcs.de/information?objektTyp=sfeervol-4p-appartement-aan-de-piste</link>
   <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1019%2Frecreation%2Fobjecttype%2F10207%2F74581.jpg&w=3840&q=20</image_link>
-  <category_id>3</category_id>
-  <category_id>106</category_id>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>106</category_id>
+  </category_ids>
   <park>UplandParcs Residence Astenberg</park>
   <parent_id>5</parent_id>
 </item>
@@ -355,8 +403,10 @@
   <description><![CDATA[Gemütliche 5P Wohnung an der Piste]]></description>
   <link>https://www.uplandparcs.de/information?objektTyp=sfeervol-5p-appartement-aan-de-piste</link>
   <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1019%2Frecreation%2Fobjecttype%2F9399%2F69834.jpg&w=3840&q=20</image_link>
-  <category_id>3</category_id>
-  <category_id>106</category_id>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>106</category_id>
+  </category_ids>
   <park>UplandParcs Residence Astenberg</park>
   <parent_id>5</parent_id>
 </item>
@@ -366,8 +416,10 @@
   <description><![CDATA[Gemütliches 6p Penthouse direkt an der Piste]]></description>
   <link>https://www.uplandparcs.de/information?objektTyp=sfeervol-6p-penthouse-direct-aan-de-piste</link>
   <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1019%2Frecreation%2Fobjecttype%2F9519%2F123903.jpg&w=3840&q=20</image_link>
-  <category_id>4</category_id>
-  <category_id>106</category_id>
+  <category_ids>
+    <category_id>4</category_id>
+    <category_id>106</category_id>
+  </category_ids>
   <park>UplandParcs Residence Astenberg</park>
   <parent_id>5</parent_id>
 </item>
@@ -377,8 +429,10 @@
   <description><![CDATA[Gemütliches 6p Penthouse direkt an der Skipiste]]></description>
   <link>https://www.uplandparcs.de/information?objektTyp=sfeervol-6p-penthouse-direct-aan-de-skipiste</link>
   <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1019%2Frecreation%2Fobjecttype%2F9402%2F68559.jpg&w=3840&q=20</image_link>
-  <category_id>4</category_id>
-  <category_id>106</category_id>
+  <category_ids>
+    <category_id>4</category_id>
+    <category_id>106</category_id>
+  </category_ids>
   <park>UplandParcs Residence Astenberg</park>
   <parent_id>5</parent_id>
 </item>
@@ -388,8 +442,10 @@
   <description><![CDATA[Gemütliches 7P Penthouse Ski-in Ski-out]]></description>
   <link>https://www.uplandparcs.de/information?objektTyp=sfeervol-7p-penthouse-ski-in-ski-out</link>
   <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1019%2Frecreation%2Fobjecttype%2F9522%2F133509.jpg&w=3840&q=20</image_link>
-  <category_id>4</category_id>
-  <category_id>106</category_id>
+  <category_ids>
+    <category_id>4</category_id>
+    <category_id>106</category_id>
+  </category_ids>
   <park>UplandParcs Residence Astenberg</park>
   <parent_id>5</parent_id>
 </item>
@@ -399,8 +455,10 @@
   <description><![CDATA[Gemütliches 8P Penthouse Ski-in Ski-out]]></description>
   <link>https://www.uplandparcs.de/information?objektTyp=sfeervol-8p-penthouse-ski-in-ski-out</link>
   <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1019%2Frecreation%2Fobjecttype%2F9525%2F68709.jpg&w=3840&q=20</image_link>
-  <category_id>4</category_id>
-  <category_id>106</category_id>
+  <category_ids>
+    <category_id>4</category_id>
+    <category_id>106</category_id>
+  </category_ids>
   <park>UplandParcs Residence Astenberg</park>
   <parent_id>5</parent_id>
 </item>
@@ -410,8 +468,10 @@
   <description><![CDATA[Gemütliches 6p Haus in Zentrumsnähe]]></description>
   <link>https://www.uplandparcs.de/information?objektTyp=sfeervol-6p-huis-vlak-bij-centrum</link>
   <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1010%2Frecreation%2Fobjecttype%2F9167%2F133455.jpg&w=3840&q=20</image_link>
-  <category_id>2</category_id>
-  <category_id>102</category_id>
+  <category_ids>
+    <category_id>2</category_id>
+    <category_id>102</category_id>
+  </category_ids>
   <park>UplandParcs Dumel</park>
   <parent_id>6</parent_id>
 </item>
@@ -421,8 +481,10 @@
   <description><![CDATA[Moderne 4P-Wohnung in bester Lage]]></description>
   <link>https://www.uplandparcs.de/information?objektTyp=modern-4p-appartement-op-toplocatie</link>
   <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1386%2Frecreation%2Fobjecttype%2F20532%2F136134.jpg&w=3840&q=20</image_link>
-  <category_id>3</category_id>
-  <category_id>104</category_id>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>104</category_id>
+  </category_ids>
   <park>UplandParcs Residence Winterberg</park>
   <parent_id>7</parent_id>
 </item>
@@ -432,8 +494,10 @@
   <description><![CDATA[Moderne 6P-Wohnung in bester Lage]]></description>
   <link>https://www.uplandparcs.de/information?objektTyp=modern-6p-appartement-op-toplocatie</link>
   <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1386%2Frecreation%2Fobjecttype%2F20535%2F136287.jpg&w=3840&q=20</image_link>
-  <category_id>3</category_id>
+  <category_ids>
+    <category_id>3</category_id>
   <category_id>104</category_id>
+    </category_ids>
   <park>UplandParcs Residence Winterberg</park>
   <parent_id>7</parent_id>
 </item>
@@ -443,10 +507,12 @@
   <description><![CDATA[Moderne 7P-Wohnung in bester Lage]]></description>
   <link>https://www.uplandparcs.de/information?objektTyp=modern-7p-appartement-op-toplocatie</link>
   <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1386%2Frecreation%2Fobjecttype%2F20883%2F140868.jpg&w=3840&q=20</image_link>
-  <category_id>3</category_id>
-  <category_id>104</category_id>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>104</category_id>
+  </category_ids>
   <park>UplandParcs Residence Winterberg</park>
-    <parent_id>7</parent_id>
+  <parent_id>7</parent_id>
 </item>
 <item>
   <id>20538</id>
@@ -454,8 +520,10 @@
   <description><![CDATA[Moderne 8P-Wohnung in bester Lage]]></description>
   <link>https://www.uplandparcs.de/information?objektTyp=modern-8p-appartement-op-toplocatie</link>
   <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1386%2Frecreation%2Fobjecttype%2F20538%2F136116.jpg&w=3840&q=20</image_link>
-  <category_id>3</category_id>
-  <category_id>104</category_id>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>104</category_id>
+  </category_ids>
   <park>UplandParcs Residence Winterberg</park>
     <parent_id>7</parent_id>
 </item>
@@ -465,10 +533,12 @@
   <description><![CDATA[4P Appartement mit Sauna]]></description>
   <link>https://www.uplandparcs.de/information?objektTyp=4p-sauna</link>
   <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1277%2Frecreation%2Fobjecttype%2F17595%2F113316.jpg&w=3840&q=20</image_link>
-  <category_id>3</category_id>
-  <category_id>110</category_id>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>110</category_id>
+  </category_ids>
   <park>Weitblick Winterberg</park>
-    <parent_id>8</parent_id>
+  <parent_id>8</parent_id>
 </item>
 <item>
   <id>Weitblick-2</id>
@@ -476,8 +546,10 @@
   <description><![CDATA[4-6P Appartement mit Sauna]]></description>
   <link>https://www.uplandparcs.de/information?objektTyp=4-6p-sauna</link>
   <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1277%2Frecreation%2Fobjecttype%2F17648%2F113358.jpg&w=3840&q=20</image_link>
-  <category_id>3</category_id>
-  <category_id>110</category_id>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>110</category_id>
+  </category_ids>
   <park>Weitblick Winterberg</park>
   <parent_id>8</parent_id>
 </item>
@@ -487,8 +559,10 @@
   <description><![CDATA[4P Appartement mit Sauna und Jacuzzi]]></description>
   <link>https://www.uplandparcs.de/information?objektTyp=4p-jacuzzi</link>
   <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1277%2Frecreation%2Fobjecttype%2F17598%2F113430.jpg&w=3840&q=20</image_link>
-  <category_id>3</category_id>
-  <category_id>110</category_id>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>110</category_id>
+  </category_ids>
   <park>Weitblick Winterberg</park>
   <parent_id>8</parent_id>
 </item>
@@ -498,8 +572,10 @@
   <description><![CDATA[4-6P Appartement mit Sauna und Jacuzzi]]></description>
   <link>https://www.uplandparcs.de/information?objektTyp=4-6p-jacuzzi</link>
   <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1277%2Frecreation%2Fobjecttype%2F17642%2F113490.jpg&w=3840&q=20</image_link>
-  <category_id>3</category_id>
-  <category_id>110</category_id>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>110</category_id>
+  </category_ids>
   <park>Weitblick Winterberg</park>
   <parent_id>8</parent_id>
 </item>
@@ -509,8 +585,10 @@
   <description><![CDATA[6P Appartement mit Sauna]]></description>
   <link>https://www.uplandparcs.de/information?objektTyp=6p-sauna</link>
   <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1277%2Frecreation%2Fobjecttype%2F17601%2F113547.jpg&w=3840&q=75</image_link>
-  <category_id>3</category_id>
-  <category_id>10</category_id>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>110</category_id>
+  </category_ids>
   <park>Weitblick Winterberg</park>
   <parent_id>8</parent_id>
 </item>
@@ -520,8 +598,10 @@
   <description><![CDATA[6-8P Appartement mit Sauna und Jacuzzi]]></description>
   <link>https://www.uplandparcs.de/information?objektTyp=6-8p-sauna</link>
   <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1277%2Frecreation%2Fobjecttype%2F17604%2F113685.jpg&w=3840&q=20</image_link>
-  <category_id>3</category_id>
-  <category_id>10</category_id>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>110</category_id>
+  </category_ids>
   <park>Weitblick Winterberg</park>
   <parent_id>8</parent_id>
 </item>
@@ -530,9 +610,11 @@
   <title>6-8P Appartement mit Sauna und Jacuzzi</title>
   <description><![CDATA[6-8P Appartement mit Sauna und Jacuzzi]]></description>
   <link>https://www.uplandparcs.de/information?objektTyp=6-8p-jacuzzi</link>
-  <image_link></image_link>
-  <category_id>3</category_id>
-  <category_id>10</category_id>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1277%2Frecreation%2Fobjecttype%2F17604%2F113685.jpg&w=3840&q=75</image_link>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>110</category_id>
+  </category_ids>
   <park>Weitblick Winterberg</park>
   <parent_id>8</parent_id>
 </item>
@@ -542,8 +624,10 @@
   <description><![CDATA[8P Appartement mit Sauna]]></description>
   <link>https://www.uplandparcs.de/information?objektTyp=8p-sauna</link>
   <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1277%2Frecreation%2Fobjecttype%2F17607%2F113745.jpg&w=3840&q=20</image_link>
-  <category_id>3</category_id>
-  <category_id>10</category_id>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>110</category_id>
+  </category_ids>
   <park>Weitblick Winterberg</park>
   <parent_id>8</parent_id>
 </item>
@@ -553,8 +637,10 @@
   <description><![CDATA[8P Appartement mit Sauna und Jacuzzi]]></description>
   <link>https://www.uplandparcs.de/information?objektTyp=8p-jacuzzi</link>
   <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1277%2Frecreation%2Fobjecttype%2F17610%2F113898.jpg&w=3840&q=20</image_link>
-  <category_id>3</category_id>
-  <category_id>10</category_id>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>110</category_id>
+  </category_ids>
   <park>Weitblick Winterberg</park>
   <parent_id>8</parent_id>
 </item>
@@ -564,8 +650,10 @@
   <description><![CDATA[10P Penthouse mit Sauna und Jacuzzi]]></description>
   <link>https://www.uplandparcs.de/information?objektTyp=10p-penthouse</link>
   <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1277%2Frecreation%2Fobjecttype%2F17613%2F113967.jpg&w=3840&q=20</image_link>
-  <category_id>4</category_id>
-  <category_id>10</category_id>
+  <category_ids>
+    <category_id>4</category_id>
+    <category_id>110</category_id>
+  </category_ids>
   <park>Weitblick Winterberg</park>
   <parent_id>8</parent_id>
 </item>
@@ -575,8 +663,10 @@
   <description><![CDATA[8P Penthouse mit Sauna und Jacuzzi]]></description>
   <link>https://www.uplandparcs.de/information?objektTyp=8p-penthouse</link>
   <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1277%2Frecreation%2Fobjecttype%2F17616%2F113934.jpg&w=3840&q=20</image_link>
-  <category_id>4</category_id>
-  <category_id>10</category_id>
+  <category_ids>
+    <category_id>4</category_id>
+    <category_id>110</category_id>
+  </category_ids>
   <park>Weitblick Winterberg</park>
   <parent_id>8</parent_id>
 </item>
@@ -586,8 +676,10 @@
   <description><![CDATA[Haus Y]]></description>
   <link>https://www.uplandparcs.de/information?objektTyp=huis-y</link>
   <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1392%2Frecreation%2Fobjecttype%2F20442%2F136815.jpg&w=3840&q=20</image_link>
-  <category_id>2</category_id>
+  <category_ids>
+    <category_id>2</category_id>
   <category_id>111</category_id>
+  </category_ids>
   <park>Sauerland Lodge</park>
   <parent_id>9</parent_id>
 </item>
@@ -597,8 +689,10 @@
   <description><![CDATA[Haus X]]></description>
   <link>https://www.uplandparcs.de/information?objektTyp=huis-x</link>
   <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1392%2Frecreation%2Fobjecttype%2F20439%2F136806.jpg&w=3840&q=20</image_link>
-  <category_id>2</category_id>
+  <category_ids>
+    <category_id>2</category_id>
   <category_id>111</category_id>
+  </category_ids>
   <park>Sauerland Lodge</park>
   <parent_id>9</parent_id>
 </item>
@@ -608,8 +702,10 @@
   <description><![CDATA[Stilvolle 4p Wohnung nahe Skigebiet]]></description>
   <link>https://www.uplandparcs.de/information?objektTyp=stijlvol-4p-appartement-vlak-bij-skigebied</link>
   <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1016%2Frecreation%2Fobjecttype%2F20199%2F134943.jpg&w=3840&q=20</image_link>
-  <category_id>3</category_id>
-  <category_id>105</category_id>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>105</category_id>
+  </category_ids>
   <park>UplandParcs Montafon</park>
   <parent_id>10</parent_id>
 </item>
@@ -619,8 +715,10 @@
   <description><![CDATA[Stilvolle 5p Wohnung nahe Skigebiet]]></description>
   <link>https://www.uplandparcs.de/information?objektTyp=stijlvol-5p-appartement-vlak-bij-skigebied</link>
   <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1016%2Frecreation%2Fobjecttype%2F9173%2F69639.jpeg&w=3840&q=75</image_link>
-  <category_id>3</category_id>
-  <category_id>105</category_id>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>105</category_id>
+  </category_ids>
   <park>UplandParcs Montafon</park>
   <parent_id>10</parent_id>
 </item>
@@ -630,8 +728,10 @@
   <description><![CDATA[Stilvolle 7p Wohnung nahe Skigebiet]]></description>
   <link>https://www.uplandparcs.de/information?objektTyp=stijlvol-7p-appartement-dicht-bij-skigebied</link>
   <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1016%2Frecreation%2Fobjecttype%2F9170%2F73621.jpg&w=3840&q=20</image_link>
-  <category_id>3</category_id>
-  <category_id>105</category_id>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>105</category_id>
+  </category_ids>
   <park>UplandParcs Montafon</park>
   <parent_id>10</parent_id>
 </item>
@@ -641,8 +741,10 @@
   <description><![CDATA[9p Penthouse mit Dachterrasse nahe Skigebiet]]></description>
   <link>https://www.uplandparcs.de/information?objektTyp=9p-penthouse-met-dakterras-nabij-skigebied</link>
   <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1016%2Frecreation%2Fobjecttype%2F9176%2F69420.jpeg&w=3840&q=20</image_link>
-  <category_id>4</category_id>
-  <category_id>105</category_id>
+  <category_ids>
+    <category_id>4</category_id>
+    <category_id>105</category_id>
+  </category_ids>
   <park>UplandParcs Montafon</park>
   <parent_id>10</parent_id>
 </item>
@@ -652,8 +754,10 @@
   <description><![CDATA[A1 Luxe 8p appartement nabij skigebied]]></description>
   <link>https://www.uplandparcs.de/information?objektTyp=a1-luxe-8p-appartement-nabij-skigebied</link>
   <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1028%2Frecreation%2Fobjecttype%2F10347%2F91784.jpg&w=3840&q=20</image_link>
-  <category_id>3</category_id>
-  <category_id>107</category_id>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>107</category_id>
+  </category_ids>
   <park>UplandParcs Silvretta</park>
   <parent_id>11</parent_id>
 </item>
@@ -663,8 +767,10 @@
   <description><![CDATA[A2 Luxe 8p appartement dicht bij skigebied]]></description>
   <link>https://www.uplandparcs.de/information?objektTyp=a2-luxe-8p-appartement-dicht-bij-skigebied</link>
   <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1028%2Frecreation%2Fobjecttype%2F10350%2F91889.jpg&w=3840&q=20</image_link>
-  <category_id>3</category_id>
-  <category_id>107</category_id>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>107</category_id>
+  </category_ids>
   <park>UplandParcs Silvretta</park>
   <parent_id>11</parent_id>
 </item>
@@ -674,8 +780,10 @@
   <description><![CDATA[A3 Luxe 6p appartement vlakbij skigebied]]></description>
   <link>https://www.uplandparcs.de/information?objektTyp=a3-luxe-6p-appartement-vlak-bij-skigebied</link>
   <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1028%2Frecreation%2Fobjecttype%2F10353%2F93941.jpg&w=3840&q=20</image_link>
-  <category_id>3</category_id>
-  <category_id>107</category_id>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>107</category_id>
+  </category_ids>
   <park>UplandParcs Silvretta</park>
   <parent_id>11</parent_id>
 </item>
@@ -685,8 +793,10 @@
   <description><![CDATA[A4 Luxe 8p appartement vlakbij skigebied]]></description>
   <link>https://www.uplandparcs.de/information?objektTyp=a4-luxe-8p-appartement-vlakbij-skigebied-</link>
   <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1028%2Frecreation%2Fobjecttype%2F10356%2F92108.jpg&w=3840&q=20</image_link>
-  <category_id>3</category_id>
-  <category_id>107</category_id>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>107</category_id>
+  </category_ids>
   <park>UplandParcs Silvretta</park>
   <parent_id>11</parent_id>
 </item>
@@ -696,8 +806,10 @@
   <description><![CDATA[A5 Luxe 6p appartement dicht bij skigebied]]></description>
   <link>https://www.uplandparcs.de/information?objektTyp=a5-luxe-6p-appartement-dicht-bij-skigebied</link>
   <image_link></image_link>
-  <category_id>3</category_id>
-  <category_id>107</category_id>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>107</category_id>
+  </category_ids>
   <park>UplandParcs Silvretta</park>
   <parent_id>11</parent_id>
 </item>
@@ -707,8 +819,10 @@
   <description><![CDATA[A4&amp;5 Luxe 14p appartement nabij skigebied]]></description>
   <link>https://www.uplandparcs.de/information?objektTyp=a45-luxe-14p-appartement-nabij-skigebied</link>
   <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1028%2Frecreation%2Fobjecttype%2F10362%2F92147.jpg&w=3840&q=20</image_link>
-  <category_id>3</category_id>
-  <category_id>107</category_id>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>107</category_id>
+  </category_ids>
   <park>UplandParcs Silvretta</park>
   <parent_id>11</parent_id>
 </item>
@@ -718,8 +832,10 @@
   <description><![CDATA[A6 Luxe 6p penthouse nabij skigebied]]></description>
   <link>https://www.uplandparcs.de/information?objektTyp=a6-luxe-6p-penthouse-nabij-skigebied</link>
   <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1028%2Frecreation%2Fobjecttype%2F9188%2F92201.jpg&w=3840&q=20</image_link>
-  <category_id>4</category_id>
-  <category_id>107</category_id>
+  <category_ids>
+    <category_id>4</category_id>
+    <category_id>107</category_id>
+  </category_ids>
   <park>UplandParcs Silvretta</park>
   <parent_id>11</parent_id>
 </item>
@@ -729,8 +845,10 @@
   <description><![CDATA[B1 Stijlvol 8p appartement nabij skigebied]]></description>
   <link>https://www.uplandparcs.de/information?objektTyp=b1-stijlvol-8p-appartement-nabij-skigebied</link>
   <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1028%2Frecreation%2Fobjecttype%2F10365%2F92261.jpg&w=3840&q=20</image_link>
-  <category_id>3</category_id>
-  <category_id>107</category_id>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>107</category_id>
+  </category_ids>
   <park>UplandParcs Silvretta</park>
   <parent_id>11</parent_id>
 </item>
@@ -740,8 +858,10 @@
   <description><![CDATA[B2 Stijlvol 6p appartement dicht bij skigebied]]></description>
   <link>https://www.uplandparcs.de/information?objektTyp=b2-stijlvol-6p-appartement-dicht-bij-skigebied</link>
   <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1028%2Frecreation%2Fobjecttype%2F10368%2F92288.jpg&w=3840&q=20</image_link>
-  <category_id>3</category_id>
-  <category_id>107</category_id>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>107</category_id>
+  </category_ids>
   <park>UplandParcs Silvretta</park>
   <parent_id>11</parent_id>
 </item>
@@ -751,8 +871,10 @@
   <description><![CDATA[B3 Stijlvol 8p appartement vlak bij skigebied]]></description>
   <link>https://www.uplandparcs.de/information?objektTyp=b3-stijlvol-8p-appartement-vlak-bij-skigebied</link>
   <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1028%2Frecreation%2Fobjecttype%2F10371%2F92384.jpg&w=3840&q=20</image_link>
-  <category_id>3</category_id> 
-  <category_id>107</category_id>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>107</category_id>
+  </category_ids>
   <park>UplandParcs Silvretta</park>
   <parent_id>11</parent_id>
 </item>
@@ -762,8 +884,10 @@
   <description><![CDATA[B4 Stijlvol 5p appartement vlakbij skigebied]]></description>
   <link>https://www.uplandparcs.de/information?objektTyp=b4-stijlvol-5p-appartement-vlakbij-skigebied</link>
   <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1028%2Frecreation%2Fobjecttype%2F10374%2F92402.jpg&w=3840&q=20</image_link>
-  <category_id>3</category_id>
-  <category_id>107</category_id>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>107</category_id>
+  </category_ids>
   <park>UplandParcs Silvretta</park>
   <parent_id>11</parent_id>
 </item>
@@ -773,8 +897,10 @@
   <description><![CDATA[B5 Stijlvol 6p appartement dicht bij skigebied]]></description>
   <link>https://www.uplandparcs.de/information?objektTyp=b5-stijlvol-8p-appartement-dicht-bij-skigebied</link>
   <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1028%2Frecreation%2Fobjecttype%2F10377%2F92438.jpg&w=3840&q=20</image_link>
-  <category_id>3</category_id>
-  <category_id>107</category_id>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>107</category_id>
+  </category_ids>
   <park>UplandParcs Silvretta</park>
   <parent_id>11</parent_id>
 </item>
@@ -784,8 +910,10 @@
   <description><![CDATA[B6 Stijlvol 6p penthouse vlakbij skigebied]]></description>
   <link>https://www.uplandparcs.de/information?objektTyp=b6-stijlvol-6p-penthouse-vlakbij-skigebied</link>
   <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1028%2Frecreation%2Fobjecttype%2F10344%2F92519.jpg&w=3840&q=20</image_link>
-  <category_id>4</category_id>
-  <category_id>107</category_id>
+  <category_ids>
+    <category_id>4</category_id>
+    <category_id>107</category_id>
+  </category_ids>
   <park>UplandParcs Silvretta</park>
   <parent_id>11</parent_id>
 </item>
