@@ -84,7 +84,7 @@
       </category_ids>
       <park>UplandParcs Winterberg</park>
       <parent_id>1</parent_id>
-      <wunschlage></wunschlage>
+      
     </item>
     <item>
       <id>8261</id>
@@ -98,7 +98,7 @@
         </category_ids>
       <park>UplandParcs Winterberg</park>
       <parent_id>1</parent_id>
-        <wunschlage></wunschlage>
+        
     </item>
     <item>
       <id>8267</id>
@@ -112,7 +112,7 @@
       </category_ids>
       <park>UplandParcs Winterberg</park>
       <parent_id>1</parent_id>
-      <wunschlage></wunschlage>
+      
     </item>
     <item>
       <id>8270</id>
@@ -126,7 +126,7 @@
       </category_ids>
       <park>UplandParcs Winterberg</park>
       <parent_id>1</parent_id>
-      <wunschlage></wunschlage>
+      
     </item>
     <item>
       <id>10491</id>
@@ -140,7 +140,7 @@
       </category_ids>
       <park>UplandParcs Sauerland</park>
       <parent_id>2</parent_id>
-      <wunschlage></wunschlage>
+      
     </item>
     <item>
       <id>10494</id>
@@ -154,7 +154,7 @@
       </category_ids>
       <park>UplandParcs Sauerland</park>
       <parent_id>2</parent_id>
-        <wunschlage></wunschlage>
+        
     </item>
     <item>
       <id>10497</id>
@@ -168,7 +168,7 @@
         </category_ids>
       <park>UplandParcs Sauerland</park>
         <parent_id>2</parent_id>
-        <wunschlage></wunschlage>
+        
     </item>
     <item>
       <id>10500</id>
@@ -182,7 +182,7 @@
       </category_ids>
       <park>UplandParcs Sauerland</park>
       <parent_id>2</parent_id>
-        <wunschlage></wunschlage>
+        
     </item>
     <item>
       <id>10503</id>
@@ -196,7 +196,7 @@
       </category_ids>
       <park>UplandParcs Sauerland</park>
       <parent_id>2</parent_id>
-        <wunschlage></wunschlage>
+        
     </item>
     <item>
       <id>10506</id>
@@ -210,7 +210,7 @@
       </category_ids>
       <park>UplandParcs Sauerland</park>
       <parent_id>2</parent_id>
-        <wunschlage></wunschlage>
+        
     </item>
       <item>
     <id>9137</id>
@@ -224,7 +224,7 @@
     </category_ids>
     <park>UplandParcs Bergblick</park>
     <parent_id>3</parent_id>
-    <wunschlage></wunschlage>
+    
   </item>
   <item>
     <id>9140</id>
@@ -238,7 +238,7 @@
     </category_ids>
     <park>UplandParcs Bergblick</park>
     <parent_id>3</parent_id>
-    <wunschlage></wunschlage>
+    
   </item>
   <item>
     <id>9143</id>
@@ -252,7 +252,7 @@
     </category_ids>
     <park>UplandParcs Bergblick</park>
     <parent_id>3</parent_id>
-    <wunschlage></wunschlage>
+    
   </item>
   <item>
     <id>9146</id>
@@ -266,7 +266,7 @@
     </category_ids>
     <park>UplandParcs Bergblick</park>
     <parent_id>3</parent_id>
-    <wunschlage></wunschlage>
+    
   </item>
   <item>
     <id>9149</id>
@@ -280,7 +280,7 @@
     </category_ids>
     <park>UplandParcs Bergblick</park>
     <parent_id>3</parent_id>
-    <wunschlage></wunschlage>
+    
   </item>
   <item>
     <id>9152</id>
@@ -294,7 +294,7 @@
     </category_ids>
     <park>UplandParcs Bergblick</park>
     <parent_id>3</parent_id>
-    <wunschlage></wunschlage>
+    
   </item>
       <item>
     <id>19746</id>
@@ -308,7 +308,7 @@
     </category_ids>
     <park>UplandParcs Bergresidence</park>
     <parent_id>4</parent_id>
-    <wunschlage></wunschlage>
+    
   </item>
   <item>
     <id>19749</id>
@@ -322,7 +322,7 @@
     </category_ids>
     <park>UplandParcs Bergresidence</park>
     <parent_id>4</parent_id>
-    <wunschlage></wunschlage>
+    
   </item>
   <item>
     <id>19752</id>
@@ -336,7 +336,7 @@
     </category_ids>
     <park>UplandParcs Bergresidence</park>
     <parent_id>4</parent_id>
-    <wunschlage></wunschlage>
+    
   </item>
   <item>
     <id>19755</id>
@@ -350,7 +350,7 @@
     </category_ids>
     <park>UplandParcs Bergresidence</park>
     <parent_id>4</parent_id>
-    <wunschlage></wunschlage>
+    
   </item>
   <item>
     <id>20376</id>
@@ -364,7 +364,7 @@
     </category_ids>
     <park>UplandParcs Bergresidence</park>
     <parent_id>4</parent_id>
-    <wunschlage></wunschlage>   
+       
   </item>
   <item>
     <id>20385</id>
@@ -378,7 +378,7 @@
     </category_ids>
     <park>UplandParcs Bergresidence</park>
     <parent_id>4</parent_id>
-    <wunschlage></wunschlage>
+    
   </item>
     <item>
   <id>30101</id>
@@ -392,7 +392,7 @@
   </category_ids>
   <park>UplandParcs Residence Astenberg</park>
   <parent_id>5</parent_id>
-    <wunschlage></wunschlage>   
+       
 </item>
 <item>
   <id>30102</id>
@@ -406,7 +406,7 @@
   </category_ids>
   <park>UplandParcs Residence Astenberg</park>
   <parent_id>5</parent_id>
-    <wunschlage></wunschlage>   
+       
 </item>
 <item>
   <id>30103</id>
@@ -420,7 +420,7 @@
   </category_ids>
   <park>UplandParcs Residence Astenberg</park>
   <parent_id>5</parent_id>
-    <wunschlage></wunschlage>
+    
 </item>
 <item>
   <id>30104</id>
@@ -434,7 +434,7 @@
   </category_ids>
   <park>UplandParcs Residence Astenberg</park>
   <parent_id>5</parent_id>
-    <wunschlage></wunschlage>   
+       
 </item>
 <item>
   <id>30105</id>
@@ -448,7 +448,7 @@
   </category_ids>
   <park>UplandParcs Residence Astenberg</park>
   <parent_id>5</parent_id>
-    <wunschlage></wunschlage>   
+       
 </item>
 <item>
   <id>30106</id>
@@ -462,7 +462,7 @@
   </category_ids>
   <park>UplandParcs Residence Astenberg</park>
   <parent_id>5</parent_id>
-    <wunschlage></wunschlage>   
+       
 </item>
 <item>
   <id>30107</id>
@@ -476,7 +476,7 @@
   </category_ids>
   <park>UplandParcs Residence Astenberg</park>
   <parent_id>5</parent_id>
-    <wunschlage></wunschlage>   
+       
 </item>
 <item>
   <id>30108</id>
@@ -490,7 +490,7 @@
   </category_ids>
   <park>UplandParcs Residence Astenberg</park>
   <parent_id>5</parent_id>
-    <wunschlage></wunschlage>
+    
 </item>
 <item>
   <id>9167</id>
@@ -504,7 +504,7 @@
   </category_ids>
   <park>UplandParcs Dumel</park>
   <parent_id>6</parent_id>
-    <wunschlage></wunschlage>
+    
 </item>
     <item>
   <id>20532</id>
@@ -518,7 +518,7 @@
   </category_ids>
   <park>Residence Winterberg</park>
   <parent_id>7</parent_id>
-    <wunschlage></wunschlage>
+    
 </item>
 <item>
   <id>20535</id>
@@ -532,7 +532,7 @@
     </category_ids>
   <park>Residence Winterberg</park>
   <parent_id>7</parent_id>
-    <wunschlage></wunschlage>
+    
 </item>
 <item>
   <id>20883</id>
@@ -546,7 +546,7 @@
   </category_ids>
   <park>Residence Winterberg</park>
   <parent_id>7</parent_id>
-    <wunschlage></wunschlage>
+    
 </item>
 <item>
   <id>20538</id>
@@ -560,7 +560,7 @@
   </category_ids>
   <park>Residence Winterberg</park>
     <parent_id>7</parent_id>
-    <wunschlage></wunschlage>
+    
 </item>
 <item>
   <id>Weitblick-1</id>
@@ -574,7 +574,7 @@
   </category_ids>
   <park>Weitblick Winterberg</park>
   <parent_id>8</parent_id>
-    <wunschlage></wunschlage>   
+       
 </item>
 <item>
   <id>Weitblick-2</id>
@@ -588,7 +588,7 @@
   </category_ids>
   <park>Weitblick Winterberg</park>
   <parent_id>8</parent_id>
-    <wunschlage></wunschlage>
+    
 </item>
 <item>
   <id>Weitblick-3</id>
@@ -602,7 +602,7 @@
   </category_ids>
   <park>Weitblick Winterberg</park>
   <parent_id>8</parent_id>
-    <wunschlage></wunschlage>
+    
 </item>
 <item>
   <id>Weitblick-4</id>
@@ -616,7 +616,7 @@
   </category_ids>
   <park>Weitblick Winterberg</park>
   <parent_id>8</parent_id>
-    <wunschlage></wunschlage>
+    
 <item>
   <id>Weitblick-5</id>
   <title>6P Appartement mit Sauna</title>
@@ -629,7 +629,7 @@
   </category_ids>
   <park>Weitblick Winterberg</park>
   <parent_id>8</parent_id>
-    <wunschlage></wunschlage>
+    
 </item>
 <item>
   <id>Weitblick-6</id>
@@ -643,7 +643,7 @@
   </category_ids>
   <park>Weitblick Winterberg</park>
   <parent_id>8</parent_id>
-    <wunschlage></wunschlage>
+    
 </item>
 <item>
   <id>Weitblick-7</id>
@@ -657,7 +657,7 @@
   </category_ids>
   <park>Weitblick Winterberg</park>
   <parent_id>8</parent_id>
-    <wunschlage></wunschlage>
+    
 </item>
 <item>
   <id>Weitblick-8</id>
@@ -671,7 +671,7 @@
   </category_ids>
   <park>Weitblick Winterberg</park>
   <parent_id>8</parent_id>
-    <wunschlage></wunschlage>
+    
 </item>
 <item>
   <id>Weitblick-9</id>
@@ -685,7 +685,7 @@
   </category_ids>
   <park>Weitblick Winterberg</park>
   <parent_id>8</parent_id>
-    <wunschlage></wunschlage>
+    
 </item>
 <item>
   <id>Weitblick-10</id>
@@ -699,7 +699,7 @@
   </category_ids>
   <park>Weitblick Winterberg</park>
   <parent_id>8</parent_id>
-    <wunschlage></wunschlage>
+    
 </item>
 <item>
   <id>Weitblick-11</id>
@@ -713,7 +713,7 @@
   </category_ids>
   <park>Weitblick Winterberg</park>
   <parent_id>8</parent_id>
-    <wunschlage></wunschlage>
+    
 </item>
     <item>
   <id>Sauerland Lodge - 1</id>
@@ -727,7 +727,7 @@
   </category_ids>
   <park>Sauerland Lodge</park>
   <parent_id>9</parent_id>
-    <wunschlage></wunschlage>
+    
 </item>
 <item>
   <id>Sauerland Lodge - 2</id>
@@ -741,7 +741,7 @@
   </category_ids>
   <park>Sauerland Lodge</park>
   <parent_id>9</parent_id>
-    <wunschlage></wunschlage>
+    
 </item>
   <item>
   <id>20199</id>
@@ -755,7 +755,7 @@
   </category_ids>
   <park>UplandParcs Montafon</park>
   <parent_id>10</parent_id>
-    <wunschlage></wunschlage>
+    
 </item>
 <item>
   <id>9173</id>
@@ -769,7 +769,7 @@
   </category_ids>
   <park>UplandParcs Montafon</park>
   <parent_id>10</parent_id>
-    <wunschlage></wunschlage>
+    
 </item>
 <item>
   <id>9170</id>
@@ -783,7 +783,7 @@
   </category_ids>
   <park>UplandParcs Montafon</park>
   <parent_id>10</parent_id>
-    <wunschlage></wunschlage>
+    
 </item>
 <item>
   <id>9176</id>
@@ -797,7 +797,7 @@
   </category_ids>
   <park>UplandParcs Montafon</park>
   <parent_id>10</parent_id>
-    <wunschlage></wunschlage>
+    
 </item>
     <item>
   <id>10347</id>
@@ -811,7 +811,7 @@
   </category_ids>
   <park>UplandParcs Silvretta</park>
   <parent_id>11</parent_id>
-    <wunschlage></wunschlage>
+    
 </item>
 <item>
   <id>10350</id>
@@ -825,7 +825,7 @@
   </category_ids>
   <park>UplandParcs Silvretta</park>
   <parent_id>11</parent_id>
-    <wunschlage></wunschlage>
+    
 </item>
 <item>
   <id>10353</id>
@@ -839,7 +839,7 @@
   </category_ids>
   <park>UplandParcs Silvretta</park>
   <parent_id>11</parent_id>
-    <wunschlage></wunschlage>
+    
 </item>
 <item>
   <id>10356</id>
@@ -853,7 +853,7 @@
   </category_ids>
   <park>UplandParcs Silvretta</park>
   <parent_id>11</parent_id>
-    <wunschlage></wunschlage>
+    
 </item>
 <item>
   <id>10359</id>
@@ -867,7 +867,7 @@
   </category_ids>
   <park>UplandParcs Silvretta</park>
   <parent_id>11</parent_id>
-    <wunschlage></wunschlage>
+    
 </item>
 <item>
   <id>10362</id>
@@ -881,7 +881,7 @@
   </category_ids>
   <park>UplandParcs Silvretta</park>
   <parent_id>11</parent_id>
-    <wunschlage></wunschlage>
+    
 </item>
 <item>
   <id>9188</id>
@@ -895,7 +895,7 @@
   </category_ids>
   <park>UplandParcs Silvretta</park>
   <parent_id>11</parent_id>
-    <wunschlage></wunschlage>
+    
 </item>
 <item>
   <id>10365</id>
@@ -909,7 +909,7 @@
   </category_ids>
   <park>UplandParcs Silvretta</park>
   <parent_id>11</parent_id>
-    <wunschlage></wunschlage>
+    
 </item>
 <item>
   <id>10368</id>
@@ -923,7 +923,7 @@
   </category_ids>
   <park>UplandParcs Silvretta</park>
   <parent_id>11</parent_id>
-    <wunschlage></wunschlage>
+    
 </item>
 <item>
   <id>10371</id>
@@ -937,7 +937,7 @@
   </category_ids>
   <park>UplandParcs Silvretta</park>
   <parent_id>11</parent_id>
-    <wunschlage></wunschlage>
+    
 </item>
     <item>
   <id>10374</id>
@@ -951,7 +951,7 @@
   </category_ids>
   <park>UplandParcs Silvretta</park>
   <parent_id>11</parent_id>
-    <wunschlage></wunschlage>
+    
 </item>
 <item>
   <id>10377</id>
@@ -965,7 +965,7 @@
   </category_ids>
   <park>UplandParcs Silvretta</park>
   <parent_id>11</parent_id>
-    <wunschlage></wunschlage>
+    
 </item>
 <item>
   <id>10344</id>
@@ -979,7 +979,7 @@
   </category_ids>
   <park>UplandParcs Silvretta</park>
   <parent_id>11</parent_id>
-    <wunschlage></wunschlage>
+    
 </item>
 </channel>
 </rss>
