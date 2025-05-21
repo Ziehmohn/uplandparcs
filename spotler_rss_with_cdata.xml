@@ -84,6 +84,7 @@
       </category_ids>
       <park>UplandParcs Winterberg</park>
       <parent_id>1</parent_id>
+      
     </item>
     <item>
       <id>8261</id>
@@ -110,6 +111,7 @@
       </category_ids>
       <park>UplandParcs Winterberg</park>
       <parent_id>1</parent_id>
+      
     </item>
     <item>
       <id>8270</id>
@@ -123,6 +125,7 @@
       </category_ids>
       <park>UplandParcs Winterberg</park>
       <parent_id>1</parent_id>
+      
     </item>
     <item>
       <id>10491</id>
@@ -136,6 +139,7 @@
       </category_ids>
       <park>UplandParcs Sauerland</park>
       <parent_id>2</parent_id>
+      
     </item>
     <item>
       <id>10494</id>
@@ -578,6 +582,7 @@
   </category_ids>
   <park>Weitblick Winterberg</park>
   <parent_id>8</parent_id>
+  </item>
 <item>
   <id>Weitblick-5</id>
   <title>6P Appartement mit Sauna</title>
