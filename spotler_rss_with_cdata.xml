@@ -78,7 +78,10 @@
       <description><![CDATA[Diese luxuriöses Ferienhaus in Winterberg für 6 Personen mit Sauna ist ideal gelegen. Das Zentrum, 27 km Skipisten, Wander- und Radwege sind in der Nähe.]]></description>
       <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1025%2Frecreation%2Fobjecttype%2F8264%2F124332.jpg&w=3840&q=75</image_link>
       <link>https://www.uplandparcs.de/information?objektTyp=luxe-6p-villa-bij-piste-en-centrum</link>
-      <category_id>2</category_id>
+      <category_ids>
+                <category_id>2</category_id>
+                <category_id>108</category_id>
+      </category_ids>
       <park>UplandParcs Winterberg</park>
       <parent_id>1</parent_id>
     </item>
