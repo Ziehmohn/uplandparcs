@@ -192,36 +192,12 @@
       </category_ids>
       <park>UplandParcs Sauerland</park>
     </item>
-      <item>
-    <id>9137</id>
-    <title>Stilvolle 6p Wohnung mit Aussicht</title>
-    <description><![CDATA[Genieße die Aussicht in dieser stilvollen 6P-Wohnung! In der Nähe von 27 km Skipisten, dem Erlebnisberg Kappe und dem Bike Park Winterberg.]]></description>
-        <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1007%2Frecreation%2Fobjecttype%2F9137%2F77081.jpg&w=3840&q=20</image_link>
-    <link>https://www.uplandparcs.de/information?objektTyp=stijlvol-6p-appartement-met-uitzicht</link>
-    <category_ids>
-      <category_id>3</category_id>
-      <category_id>101</category_id>
-    </category_ids>
-    <park>UplandParcs Bergblick</park>
-  </item>
   <item>
     <id>9140</id>
     <title>Luxus 4p Wohnung mit Aussicht</title>
     <description><![CDATA[Genieße die Aussicht in dieser 4p-Wohnung in Winterberg! Nur wenige Minuten von 27 km Skipisten, dem Erlebnisberg Kappe und dem Bike Park entfernt.]]></description>
     <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1007%2Frecreation%2Fobjecttype%2F9140%2F77108.jpg&w=3840&q=20</image_link>
     <link>https://www.uplandparcs.de/information?objektTyp=luxe-4p-appartement-met-uitzicht</link>
-    <category_ids>
-      <category_id>3</category_id>
-      <category_id>101</category_id>
-    </category_ids>
-    <park>UplandParcs Bergblick</park>
-  </item>
-  <item>
-    <id>9143</id>
-    <title>Stilvolle 8p Wohnung mit Aussicht</title>
-    <description><![CDATA[Von dieser 8p Wohnung in Winterberg hast du eine schöne Aussicht - 27 km Skipisten, dem Erlebnisberg Kappe und dem Bikepark in der Nähe.]]></description>
-    <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1007%2Frecreation%2Fobjecttype%2F9143%2F68913.jpg&w=3840&q=20</image_link>
-    <link>https://www.uplandparcs.de/information?objektTyp=stijvol-8p-appartement-met-uitzicht</link>
     <category_ids>
       <category_id>3</category_id>
       <category_id>101</category_id>
