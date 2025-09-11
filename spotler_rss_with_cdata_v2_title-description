@@ -1,0 +1,896 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>UplandParcs Feed</title>
+    <link>https://www.uplandparcs.de</link>
+    <description>Produktfeed für Spotler im RSS 2.0 Format</description>
+    <category>
+      <id>1</id>
+      <title>Cottage</title>
+    </category>
+    <category>
+      <id>2</id>
+      <title>Villa</title>
+    </category>
+    <category>
+      <id>3</id>
+      <title>Apartment</title>
+    </category>
+    <category>
+      <id>4</id>
+      <title>Penthouse</title>
+    </category>
+    <category>
+      <id>5</id>
+      <title>Glamping tent</title>
+    </category>
+    <category>
+      <id>6</id>
+      <title>Boomhut</title>
+    </category>
+    <category>
+      <id>101</id>
+      <title>UplandParcs Bergblick</title>
+    </category>
+    <category>
+      <id>102</id>
+      <title>UplandParcs Dumel</title>
+    </category>
+    <category>
+      <id>103</id>
+      <title>UplandParcs Bergresidence</title>
+    </category> 
+    <category>
+    <id>104</id>
+      <title>Residence Winterberg</title>
+    </category>
+    <category>
+      <id>105</id>
+      <title>UplandParcs Montafon</title>
+    </category> 
+    <category>
+      <id>106</id>
+      <title>UplandParcs Residence Astenberg</title>
+    </category>
+    <category>
+      <id>107</id>
+      <title>UplandParcs Silvretta</title>
+    </category>
+    <category>
+      <id>108</id>
+      <title>UplandParcs Winterberg</title>
+    </category>
+    <category>
+      <id>109</id>
+      <title>UplandParcs Sauerland</title>
+    </category>
+    <category>
+      <id>110</id>
+      <title>Weitblick Winterberg</title>
+    </category>
+        <category>
+      <id>111</id>
+      <title>Sauerland Lodge</title>
+    </category>
+<item>
+  <id>8264</id>
+  <title>Luxuriöses Ferienhaus für 6 Personen in Winterberg mit Sauna</title>
+  <description><![CDATA[Hochmodernes Ferienhaus mit Sauna und Kamin für 6 Personen in bester Lage in Winterberg. Ideal für Aktivitäten und Erholung zu jeder Jahreszeit.]]></description>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1025%2Frecreation%2Fobjecttype%2F8264%2F124332.jpg&w=3840&q=75</image_link>
+  <link>https://www.uplandparcs.de/information?objektTyp=luxe-6p-villa-bij-piste-en-centrum</link>
+  <category_ids>
+    <category_id>2</category_id>
+    <category_id>108</category_id>
+  </category_ids>
+  <park>UplandParcs Winterberg</park>
+</item>
+
+<item>
+  <id>8261</id>
+  <title>Modernes Ferienhaus für 8 Personen in Winterberg mit Sauna</title>
+  <description><![CDATA[Stilvolles Ferienhaus mit Sauna für 8 Personen. Hochwertig ausgestattet, zentral in Winterberg gelegen – perfekt für Erholung und Aktivitäten.]]></description>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1025%2Frecreation%2Fobjecttype%2F8261%2F74326.jpg&w=3840&q=75</image_link>
+  <link>https://www.uplandparcs.de/information?objektTyp=luxe-8p-villa-bij-centrum-en-piste</link>
+  <category_ids>
+    <category_id>2</category_id>
+    <category_id>108</category_id>
+  </category_ids>
+  <park>UplandParcs Winterberg</park>
+</item>
+
+<item>
+  <id>8267</id>
+  <title>Großzügige Villa für 12 Personen in Winterberg mit Sauna</title>
+  <description><![CDATA[Luxuriöse Villa mit Sauna für 12 Personen in zentraler Lage in Winterberg. Perfekt für Familien oder Gruppen, die Komfort und Erholung suchen.]]></description>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1025%2Frecreation%2Fobjecttype%2F8267%2F124338.jpg&w=3840&q=75</image_link>
+  <link>https://www.uplandparcs.de/information?objektTyp=luxe-en-ruim-12p-villa-nabij-piste-en-centrum</link>
+  <category_ids>
+    <category_id>2</category_id>
+    <category_id>108</category_id>
+  </category_ids>
+  <park>UplandParcs Winterberg</park>
+</item>
+
+<item>
+  <id>8270</id>
+  <title>Gemütliches Cottage für 4 Personen in Winterberg mit Kamin</title>
+  <description><![CDATA[Charmantes Cottage mit Kaminofen für 4 Personen. Modern eingerichtet, zentral in Winterberg gelegen – ideal für entspannte Urlaubstage.]]></description>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1025%2Frecreation%2Fobjecttype%2F8270%2F77331.jpg&w=3840&q=75</image_link>
+  <link>https://www.uplandparcs.de/information?objektTyp=luxe-4p-cottage-vlak-bij-centrum-en-piste</link>
+  <category_ids>
+    <category_id>1</category_id>
+    <category_id>108</category_id>
+  </category_ids>
+  <park>UplandParcs Winterberg</park>
+</item>
+
+<item>
+  <id>10491</id>
+  <title>Gemütliches Luxus-Cottage für 4+2 Personen in traumhafter Umgebung</title>
+  <description><![CDATA[Komfortables Cottage für 4 Personen mit Grill und moderner Ausstattung. Umgeben von herrlicher Natur, Entspannung pur im traumhaften Sauerland.]]></description>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1112%2Frecreation%2Fobjecttype%2F10491%2F147528.jpg&w=3840&q=75</image_link>
+  <link>https://www.uplandparcs.de/information?objektTyp=luxe-6p-cottage-met-bbq</link>
+  <category_ids>
+    <category_id>1</category_id>
+    <category_id>109</category_id>
+  </category_ids>
+  <park>UplandParcs Sauerland</park>
+</item>
+
+<item>
+  <id>10494</id>
+  <title>Modernes Luxus-Cottage mit Grill für 4 Personen im UplandParcs Sauerland</title>
+  <description><![CDATA[Stilvolles Cottage für 4 Personen mit Grill, ruhig gelegen im Sauerland. Moderne Einrichtung und naturnahe Umgebung für erholsame Urlaubstage.]]></description>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1112%2Frecreation%2Fobjecttype%2F10494%2F133269.jpg&w=3840&q=20</image_link>
+  <link>https://www.uplandparcs.de/information?objektTyp=luxe-4p-cottage-met-bbq</link>
+  <category_ids>
+    <category_id>1</category_id>
+    <category_id>109</category_id>
+  </category_ids>
+  <park>UplandParcs Sauerland</park>
+</item>
+
+<item>
+  <id>10497</id>
+  <title>Wellness Cottage mit Hottub für 4 Personen im Sauerland</title>
+  <description><![CDATA[Exklusives Wellness Cottage für 4 Personen mit privatem Hottub und Dachterrasse mit atemberaubender Aussicht. Urlauberherz, was willst du mehr?]]></description>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1112%2Frecreation%2Fobjecttype%2F10497%2F111369.jpg&w=3840&q=20</image_link>
+  <link>https://www.uplandparcs.de/information?objektTyp=4p-wellness-cottage-met-hottub</link>
+  <category_ids>
+    <category_id>1</category_id>
+    <category_id>109</category_id>
+  </category_ids>
+  <park>UplandParcs Sauerland</park>
+</item>
+
+<item>
+  <id>10500</id>
+  <title>Kindercottage für 4+2 Personen im UplandParcs Sauerland</title>
+  <description><![CDATA[Familien aufgepasst! Perfektes Cottage für 4 bis 6-köpfige Reisegruppen mit Kindern: Eigene Rutsche und tolle Spielmöglichkeiten im Park. Die Kids werden sich freuen.]]></description>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1112%2Frecreation%2Fobjecttype%2F10500%2F111027.jpg&w=3840&q=20</image_link>
+  <link>https://www.uplandparcs.de/information?objektTyp=6p-kinder-cottage</link>
+  <category_ids>
+    <category_id>1</category_id>
+    <category_id>109</category_id>
+  </category_ids>
+  <park>UplandParcs Sauerland</park>
+</item>
+
+<item>
+  <id>10503</id>
+  <title>Glamping-Zelt für 5 Personen im UplandParcs Sauerland</title>
+  <description><![CDATA[Einzigartiges Glamping-Zelt für 5 Personen inmitten der Natur des Sauerlandes. Komfortabel ausgestattet für ein besonderes Urlaubserlebnis.]]></description>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1112%2Frecreation%2Fobjecttype%2F10503%2F131286.jpg&w=3840&q=20</image_link>
+  <link>https://www.uplandparcs.de/information?objektTyp=luxe-5p-glamping-tent</link>
+  <category_ids>
+    <category_id>5</category_id>
+    <category_id>109</category_id>
+  </category_ids>
+  <park>UplandParcs Sauerland</park>
+</item>
+
+<item>
+  <id>10506</id>
+  <title>Baumhaus mit Rutsche für 4 Personen im UplandParcs Sauerland</title>
+  <description><![CDATA[Unvergessliches Baumhaus-Abenteuer für 4 Personen über den Dächern des Sauerlandes. Mitten in der Natur, modern ausgestattet und gemütlich eingerichtet.]]></description>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1112%2Frecreation%2Fobjecttype%2F10506%2F131289.jpg&w=3840&q=20</image_link>
+  <link>https://www.uplandparcs.de/information?objektTyp=luxe-4p-boomhut-met-glijbaan</link>
+  <category_ids>
+    <category_id>6</category_id>
+    <category_id>109</category_id>
+  </category_ids>
+  <park>UplandParcs Sauerland</park>
+</item>
+
+<item>
+  <id>9140</id>
+  <title>Luxus-Apartment für 4 Personen mit traumhafter Aussicht in Winterberg</title>
+  <description><![CDATA[Modernes Apartment für 4 Personen mit hochwertiger Ausstattung und großem Balkon. Genieße die traumhafte Aussicht auf Winterbergs Natur.]]></description>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1007%2Frecreation%2Fobjecttype%2F9140%2F77108.jpg&w=3840&q=20</image_link>
+  <link>https://www.uplandparcs.de/information?objektTyp=luxe-4p-appartement-met-uitzicht</link>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>101</category_id>
+  </category_ids>
+  <park>UplandParcs Bergblick</park>
+</item>
+
+<item>
+  <id>9146</id>
+  <title>Komfortables Apartment für 6 Personen mit Panorama-Aussicht</title>
+  <description><![CDATA[Stilvoll eingerichtetes Apartment für 6 Personen. Mit großem Balkon und moderner Ausstattung. Perfekter Ausgangspunkt für deine Auszeit in Winterberg.]]></description>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1007%2Frecreation%2Fobjecttype%2F9146%2F69009.jpg&w=3840&q=20</image_link>
+  <link>https://www.uplandparcs.de/information?objektTyp=luxe-6p-appartement-met-uitzicht</link>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>101</category_id>
+  </category_ids>
+  <park>UplandParcs Bergblick</park>
+</item>
+
+<item>
+  <id>9149</id>
+  <title>Stilvolles Penthouse für 5 Personen mit atemberaubender Aussicht</title>
+  <description><![CDATA[Exklusives Penthouse für 5 Personen mit Panoramablick und moderner Einrichtung. Komfort, Stil und Natur – deine Traumunterkunft in Winterberg.]]></description>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1007%2Frecreation%2Fobjecttype%2F9149%2F69042.jpg&w=3840&q=20</image_link>
+  <link>https://www.uplandparcs.de/information?objektTyp=stijvol-5p-penthouse-met-uitzicht</link>
+  <category_ids>
+    <category_id>4</category_id>
+    <category_id>101</category_id>
+  </category_ids>
+  <park>UplandParcs Bergblick</park>
+</item>
+
+<item>
+  <id>9152</id>
+  <title>Elegantes Apartment für 2–4 Personen mit herrlicher Aussicht</title>
+  <description><![CDATA[Gemütliches Apartment für 2 bis 4 Personen. Mit Balkon, moderner Einrichtung und beeindruckender Aussicht auf die Landschaft in Winterberg.]]></description>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1007%2Frecreation%2Fobjecttype%2F9152%2F77111.jpg&w=3840&q=20</image_link>
+  <link>https://www.uplandparcs.de/information?objektTyp=stijlvol-2-2-appartement-met-uitzicht</link>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>101</category_id>
+  </category_ids>
+  <park>UplandParcs Bergblick</park>
+</item>
+
+<item>
+  <id>19746</id>
+  <title>Gemütliches Studio für 2 Personen mit traumhafter Aussicht</title>
+  <description><![CDATA[Komfortables Studio für 2 Personen mit Balkon und moderner Einrichtung. Genieße eine atemberaubende Aussicht in der Bergresidence.]]></description>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1320%2Frecreation%2Fobjecttype%2F19746%2F115800.jpg&w=3840&q=20</image_link>
+  <link>https://www.uplandparcs.de/information?objektTyp=sfeervol-2p-studio-met-uitzicht</link>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>103</category_id>
+  </category_ids>
+  <park>UplandParcs Bergresidence</park>
+</item>
+
+<item>
+  <id>19749</id>
+  <title>Komfortables Apartment für 2–4 Personen mit herrlicher Aussicht</title>
+  <description><![CDATA[Modernes Apartment für 2 bis 4 Personen mit Balkon. Hochwertig ausgestattet und mit fantastischem Ausblick auf die Natur in Winterberg.]]></description>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1320%2Frecreation%2Fobjecttype%2F19749%2F115866.jpg&w=3840&q=20</image_link>
+  <link>https://www.uplandparcs.de/information?objektTyp=sfeervol-2-2p-appartement-met-uitzicht</link>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>103</category_id>
+  </category_ids>
+  <park>UplandParcs Bergresidence</park>
+</item>
+
+<item>
+  <id>19752</id>
+  <title>Modernes Apartment für 4–6 Personen mit Panorama-Aussicht</title>
+  <description><![CDATA[Stilvolles Apartment für 4 bis 6 Personen mit Balkon und moderner Einrichtung. Genieße traumhafte Aussichten direkt von deiner Unterkunft.]]></description>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1320%2Frecreation%2Fobjecttype%2F19752%2F115998.jpg&w=3840&q=20</image_link>
+  <link>https://www.uplandparcs.de/information?objektTyp=sfeervol-4-2p-appartement-met-uitzicht</link>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>103</category_id>
+  </category_ids>
+  <park>UplandParcs Bergresidence</park>
+</item>
+
+<item>
+  <id>19755</id>
+  <title>Gemütliches Penthouse für 2–4 Personen mit traumhafter Aussicht</title>
+  <description><![CDATA[Exklusives Penthouse für 2 bis 4 Personen. Hochwertig ausgestattet mit Terrasse und beeindruckender Aussicht über Winterbergs Berge.]]></description>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1320%2Frecreation%2Fobjecttype%2F19755%2F115917.jpg&w=3840&q=20</image_link>
+  <link>https://www.uplandparcs.de/information?objektTyp=sfeervol-2-2p-penthouse-met-uitzicht</link>
+  <category_ids>
+    <category_id>4</category_id>
+    <category_id>103</category_id>
+  </category_ids>
+  <park>UplandParcs Bergresidence</park>
+</item>
+
+<item>
+  <id>20376</id>
+  <title>Luxuriöses Apartment für 2–4 Personen mit Panorama-Blick</title>
+  <description><![CDATA[Hochwertiges Apartment für 2 bis 4 Personen mit Balkon und stilvollem Design. Genieße die unvergleichliche Aussicht über Winterberg.]]></description>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1320%2Frecreation%2Fobjecttype%2F20376%2F130503.jpg&w=3840&q=20</image_link>
+  <link>https://www.uplandparcs.de/information?objektTyp=luxe-2-2p-appartement-met-uitzicht</link>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>103</category_id>
+  </category_ids>
+  <park>UplandParcs Bergresidence</park>
+</item>
+
+<item>
+  <id>20385</id>
+  <title>Luxuriöses Penthouse für 2–4 Personen mit herrlicher Aussicht</title>
+  <description><![CDATA[Exklusives Penthouse für 2 bis 4 Personen mit Terrasse. Genieße höchsten Komfort und atemberaubende Ausblicke über die Natur von Winterberg.]]></description>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1320%2Frecreation%2Fobjecttype%2F20385%2F131796.jpg&w=3840&q=20</image_link>
+  <link>https://www.uplandparcs.de/information?objektTyp=luxe-2-2p-penthouse-met-uitzicht</link>
+  <category_ids>
+    <category_id>4</category_id>
+    <category_id>103</category_id>
+  </category_ids>
+  <park>UplandParcs Bergresidence</park>
+</item>
+
+<item>
+  <id>30101</id>
+  <title>Gemütliches Apartment für 5 Personen im Luftkurort Neuastenberg</title>
+  <description><![CDATA[Einfach mal die Seele baumeln lassen in diesem komfortablen Apartment für 5 Personen. Moderne Ausstattung, schöner Balkon und naturnahe Lage mit herrlicher Aussicht.]]></description>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1019%2Frecreation%2Fobjecttype%2F10290%2F77361.jpg&w=3840&q=20</image_link>
+  <link>https://www.uplandparcs.de/information?objektTyp=sfeervol-5p-appartement-ski-in-ski-out</link>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>106</category_id>
+  </category_ids>
+  <park>UplandParcs Residence Astenberg</park>
+</item>
+
+<item>
+  <id>30102</id>
+  <title>Modernes Apartment für 8 Personen zum Genießen</title>
+  <description><![CDATA[Geräumiges Apartment für 8 Personen, stilvoll eingerichtet mit Terrasse. Perfekte Unterkunft für gemeinsame Auszeiten in Winterberg.]]></description>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1019%2Frecreation%2Fobjecttype%2F9161%2F94052.jpg&w=3840&q=20</image_link>
+  <link>https://www.uplandparcs.de/information?objektTyp=sfeervol-8p-appartement-aan-de-piste</link>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>106</category_id>
+  </category_ids>
+  <park>UplandParcs Residence Astenberg</park>
+</item>
+
+<item>
+  <id>30103</id>
+  <title>Apartment für 4 Personen mit Balkon in der Residence Astenberg</title>
+  <description><![CDATA[Gemütliches Apartment für 4 Personen mit Balkon und moderner Einrichtung. Ruhige Lage und idealer Ausgangspunkt für Aktivitäten in Winterberg.]]></description>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1019%2Frecreation%2Fobjecttype%2F10207%2F74581.jpg&w=3840&q=20</image_link>
+  <link>https://www.uplandparcs.de/information?objektTyp=sfeervol-4p-appartement-aan-de-piste</link>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>106</category_id>
+  </category_ids>
+  <park>UplandParcs Residence Astenberg</park>
+</item>
+
+<item>
+  <id>30104</id>
+  <title>Apartment für 5 Personen mit Terrasse in der Residence Astenberg</title>
+  <description><![CDATA[Stilvolles Apartment für 5 Personen mit Terrasse. Modern ausgestattet, komfortabel und in idealer Lage für entspannte Urlaubstage in Winterberg.]]></description>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1019%2Frecreation%2Fobjecttype%2F9399%2F69834.jpg&w=3840&q=20</image_link>
+  <link>https://www.uplandparcs.de/information?objektTyp=sfeervol-5p-appartement-aan-de-piste</link>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>106</category_id>
+  </category_ids>
+  <park>UplandParcs Residence Astenberg</park>
+</item>
+
+<item>
+  <id>30105</id>
+  <title>Penthouse für 6 Personen in der Residence Astenberg</title>
+  <description><![CDATA[Exklusives Penthouse für 6 Personen mit stilvoller Ausstattung. Großzügige Räume und traumhafte Aussicht auf die Winterberger Bergwelt.]]></description>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1019%2Frecreation%2Fobjecttype%2F9519%2F123903.jpg&w=3840&q=20</image_link>
+  <link>https://www.uplandparcs.de/information?objektTyp=sfeervol-6p-penthouse-direct-aan-de-piste</link>
+  <category_ids>
+    <category_id>4</category_id>
+    <category_id>106</category_id>
+  </category_ids>
+  <park>UplandParcs Residence Astenberg</park>
+</item>
+
+<item>
+  <id>30106</id>
+  <title>Gemütliches Penthouse für 6 Personen im Höhendorf Winterberg-Neuastenberg</title>
+  <description><![CDATA[Es geht hoch hinaus im Penthouse für 6 Personen. Dank moderner Einrichtung, großzügigem Balkon und toller Lage genießt du eine Auszeit der Extraklasse.]]></description>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1019%2Frecreation%2Fobjecttype%2F9402%2F68559.jpg&w=3840&q=20</image_link>
+  <link>https://www.uplandparcs.de/information?objektTyp=sfeervol-6p-penthouse-direct-aan-de-skipiste</link>
+  <category_ids>
+    <category_id>4</category_id>
+    <category_id>106</category_id>
+  </category_ids>
+  <park>UplandParcs Residence Astenberg</park>
+</item>
+
+<item>
+  <id>30107</id>
+  <title>Exklusives Penthouse für 7 Personen in der Residence Astenberg</title>
+  <description><![CDATA[Erlebe dieses moderne Penthouse für 7 Personen mit großzügiger Ausstattung und Terrasse im Winterberger Ortsteil Neuastenberg. Stilvoll & gemütlich.]]></description>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1019%2Frecreation%2Fobjecttype%2F9522%2F133509.jpg&w=3840&q=20</image_link>
+  <link>https://www.uplandparcs.de/information?objektTyp=sfeervol-7p-penthouse-ski-in-ski-out</link>
+  <category_ids>
+    <category_id>4</category_id>
+    <category_id>106</category_id>
+  </category_ids>
+  <park>UplandParcs Residence Astenberg</park>
+</item>
+
+<item>
+  <id>30108</id>
+  <title>Großzügiges Penthouse für 8 Personen in Winterberg-Neaustenberg/title>
+  <description><![CDATA[Dieses Penthouse bietet Platz für 8 Personen wird dich mit einer hochwertigen Ausstattung begeistern. Viel Platz für Familien oder Freundeskreise, worauf wartest du?]]></description>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1019%2Frecreation%2Fobjecttype%2F9525%2F68709.jpg&w=3840&q=20</image_link>
+  <link>https://www.uplandparcs.de/information?objektTyp=sfeervol-8p-penthouse-ski-in-ski-out</link>
+  <category_ids>
+    <category_id>4</category_id>
+    <category_id>106</category_id>
+  </category_ids>
+  <park>UplandParcs Residence Astenberg</park>
+</item>
+
+<item>
+  <id>9167</id>
+  <title>Gemütliches Ferienhaus für 6 Personen in Zentrumsnähe</title>
+  <description><![CDATA[Im UplandParcs Dumel wartet dieses charmante Ferienhaus für 6 Personen auf dich und deine Liebsten. Hier fehlt es dir an nichts und ins lebhafte Winterberg zentrum sind es nur wenige Gehminuten.]]></description>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1010%2Frecreation%2Fobjecttype%2F9167%2F133455.jpg&w=3840&q=20</image_link>
+  <link>https://www.uplandparcs.de/information?objektTyp=sfeervol-6p-huis-vlak-bij-centrum</link>
+  <category_ids>
+    <category_id>2</category_id>
+    <category_id>102</category_id>
+  </category_ids>
+  <park>UplandParcs Dumel</park>
+</item>
+
+<item>
+  <id>20532</id>
+  <title>Modernes Apartment für 4 Personen in bester Lage</title>
+  <description><![CDATA[Stilvolles Apartment für 4 Personen mit Balkon und hochwertiger Einrichtung. Zentrale Lage in Winterberg – ideal für entspannte Urlaubstage.]]></description>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1386%2Frecreation%2Fobjecttype%2F20532%2F136134.jpg&w=3840&q=20</image_link>
+  <link>https://www.uplandparcs.de/information?objektTyp=modern-4p-appartement-op-toplocatie</link>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>104</category_id>
+  </category_ids>
+  <park>Residence Winterberg</park>
+</item>
+
+<item>
+  <id>20535</id>
+  <title>Geräumiges Apartment für 6 Personen im Herzen von Winterberg</title>
+  <description><![CDATA[Modernes Apartment für 6 Personen mit Balkon und eleganter Einrichtung. Perfekte Lage, um Winterberg zu entdecken und gemeinsam zu entspannen.]]></description>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1386%2Frecreation%2Fobjecttype%2F20535%2F136287.jpg&w=3840&q=20</image_link>
+  <link>https://www.uplandparcs.de/information?objektTyp=modern-6p-appartement-op-toplocatie</link>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>104</category_id>
+  </category_ids>
+  <park>Residence Winterberg</park>
+</item>
+
+<item>
+  <id>20883</id>
+  <title>Stilvolles Apartment für 7 Personen mit Balkon</title>
+  <description><![CDATA[Hochwertiges Apartment für 7 Personen mit großzügigem Wohnbereich und Balkon. Zentrale Lage in Winterberg – perfekt für Familie und Freunde.]]></description>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1386%2Frecreation%2Fobjecttype%2F20883%2F140868.jpg&w=3840&q=20</image_link>
+  <link>https://www.uplandparcs.de/information?objektTyp=modern-7p-appartement-op-toplocatie</link>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>104</category_id>
+  </category_ids>
+  <park>Residence Winterberg</park>
+</item>
+
+<item>
+  <id>20538</id>
+  <title>Großzügiges Apartment für 8 Personen in zentraler Lage</title>
+  <description><![CDATA[Komfortables Apartment für 8 Personen mit stilvoller Ausstattung und Terrasse. In bevorzugter Lage in Winterberg – ideal für gemeinsame aktive Auszeiten.]]></description>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1386%2Frecreation%2Fobjecttype%2F20538%2F136116.jpg&w=3840&q=20</image_link>
+  <link>https://www.uplandparcs.de/information?objektTyp=modern-8p-appartement-op-toplocatie</link>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>104</category_id>
+  </category_ids>
+  <park>Residence Winterberg</park>
+</item>
+
+<item>
+  <id>Weitblick-1</id>
+  <title>Luxus-Apartment für 4 Personen mit Sauna in Winterberg</title>
+  <description><![CDATA[Luxus pur für 4 Personen mit eigener Sauna und stilvoller Einrichtung. Genieße Exklusivität und entspannte Urlaubstage mit herrlicher Aussicht.]]></description>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1277%2Frecreation%2Fobjecttype%2F17595%2F113316.jpg&w=3840&q=20</image_link>
+  <link>https://www.uplandparcs.de/information?objektTyp=4p-sauna</link>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>110</category_id>
+  </category_ids>
+  <park>Weitblick Winterberg</park>
+</item>
+
+<item>
+  <id>Weitblick-2</id>
+  <title>Luxus pur für 4–6 Personen im Weitblick Winterberg inkl. Sauna</title>
+  <description><![CDATA[WOW! Großzügiges Apartment für bis zu 6 Personen mit Sauna. Stilvoll ausgestattet, naturnah gelegen und mit Panorama-Aussicht zum Genießen.]]></description>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1277%2Frecreation%2Fobjecttype%2F17648%2F113358.jpg&w=3840&q=20</image_link>
+  <link>https://www.uplandparcs.de/information?objektTyp=4-6p-sauna</link>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>110</category_id>
+  </category_ids>
+  <park>Weitblick Winterberg</park>
+</item>
+
+<item>
+  <id>Weitblick-3</id>
+  <title>Exklusives Apartment für 4 Personen mit Sauna & Jacuzzi</title>
+  <description><![CDATA[Luxus-Apartment für 4 Personen mit privater Sauna und eigenem Jacuzzi. Ideal für erholsame Tage und unvergessliche Abende in Winterberg.]]></description>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1277%2Frecreation%2Fobjecttype%2F17598%2F113430.jpg&w=3840&q=20</image_link>
+  <link>https://www.uplandparcs.de/information?objektTyp=4p-jacuzzi</link>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>110</category_id>
+  </category_ids>
+  <park>Weitblick Winterberg</park>
+</item>
+
+<item>
+  <id>Weitblick-4</id>
+  <title>Wellness für 4–6 Personen mit Sauna & Jacuzzi</title>
+  <description><![CDATA[Exklusivität & Stil vereint. Tolles Apartment für bis zu 6 Personen mit privater Sauna und Jacuzzi. Viel Platz, moderne Einrichtung und traumhafte Aussicht.]]></description>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1277%2Frecreation%2Fobjecttype%2F17642%2F113490.jpg&w=3840&q=20</image_link>
+  <link>https://www.uplandparcs.de/information?objektTyp=4-6p-jacuzzi</link>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>110</category_id>
+  </category_ids>
+  <park>Weitblick Winterberg</park>
+</item>
+
+<item>
+  <id>Weitblick-5</id>
+  <title>Luxus-Apartment für 6 Personen mit privater Sauna</title>
+  <description><![CDATA[Komfortables Apartment für 6 Personen mit Sauna. Genieße stilvolles Ambiente, hochwertige Ausstattung und eine einzigartige Aussicht.]]></description>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1277%2Frecreation%2Fobjecttype%2F17601%2F113547.jpg&w=3840&q=75</image_link>
+  <link>https://www.uplandparcs.de/information?objektTyp=6p-sauna</link>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>110</category_id>
+  </category_ids>
+  <park>Weitblick Winterberg</park>
+</item>
+
+<item>
+  <id>Weitblick-6</id>
+  <title>Großzügiges Apartment für 6–8 Personen mit Sauna & Jacuzzi</title>
+  <description><![CDATA[Luxuriöses Apartment für bis zu 8 Personen mit Sauna und Jacuzzi. Genieße die exklusive Einrichtung und eine traumhafte Aussicht in Winterberg-Neuastenberg.]]></description>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1277%2Frecreation%2Fobjecttype%2F17604%2F113685.jpg&w=3840&q=20</image_link>
+  <link>https://www.uplandparcs.de/information?objektTyp=6-8p-sauna</link>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>110</category_id>
+  </category_ids>
+  <park>Weitblick Winterberg</park>
+</item>
+
+<item>
+  <id>Weitblick-7</id>
+  <title>Exklsuives Apartment für 6–8 Personen mit Sauna & Jacuzzi</title>
+  <description><![CDATA[Modernes Apartment für bis zu 8 Personen mit privater Sauna und Jacuzzi. Viel Raum für Entspannung, ideal für Gruppen und Familien.]]></description>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1277%2Frecreation%2Fobjecttype%2F17604%2F113685.jpg&w=3840&q=75</image_link>
+  <link>https://www.uplandparcs.de/information?objektTyp=6-8p-jacuzzi</link>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>110</category_id>
+  </category_ids>
+  <park>Weitblick Winterberg</park>
+</item>
+
+<item>
+  <id>Weitblick-8</id>
+  <title>Luxuriöses Apartment für 8 Personen mit privater Sauna</title>
+  <description><![CDATA[Komfortables Apartment für 8 Personen mit Sauna und stilvollem Design. Genieße viel Raum, hochwertige Ausstattung und ein atemberaubendes Panorama.]]></description>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1277%2Frecreation%2Fobjecttype%2F17607%2F113745.jpg&w=3840&q=20</image_link>
+  <link>https://www.uplandparcs.de/information?objektTyp=8p-sauna</link>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>110</category_id>
+  </category_ids>
+  <park>Weitblick Winterberg</park>
+</item>
+
+<item>
+  <id>Weitblick-9</id>
+  <title>Apartment für 8 Personen mit Sauna & Jacuzzi</title>
+  <description><![CDATA[Zum Genießen: Großzügiges Apartment für 8 Personen mit eigener Sauna und Jacuzzi. Moderne Ausstattung, stilvoll eingerichtet und herrliche Lage. ]]></description>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1277%2Frecreation%2Fobjecttype%2F17610%2F113898.jpg&w=3840&q=20</image_link>
+  <link>https://www.uplandparcs.de/information?objektTyp=8p-jacuzzi</link>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>110</category_id>
+  </category_ids>
+  <park>Weitblick Winterberg</park>
+</item>
+
+<item>
+  <id>Weitblick-10</id>
+  <title>Exklusives Penthouse für 10 Personen mit Sauna & Jacuzzi</title>
+  <description><![CDATA[Luxuriöses Penthouse für Reisegruppen bis 10 Personen mit privater Sauna und Jacuzzi. Großzügig gestaltet, modern eingerichtet und mit Panorama-Aussicht.]]></description>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1277%2Frecreation%2Fobjecttype%2F17613%2F113967.jpg&w=3840&q=20</image_link>
+  <link>https://www.uplandparcs.de/information?objektTyp=10p-penthouse</link>
+  <category_ids>
+    <category_id>4</category_id>
+    <category_id>110</category_id>
+  </category_ids>
+  <park>Weitblick Winterberg</park>
+</item>
+
+<item>
+  <id>Weitblick-11</id>
+  <title>Luxus-Penthouse für 8 Personen mit Sauna & Jacuzzi</title>
+  <description><![CDATA[Penthouse für 8 Personen mit Sauna und Jacuzzi. Elegante Ausstattung, großzügig geschnittene Räume und herrliche Ausblicke auf die traumhafte Umgebung.]]></description>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1277%2Frecreation%2Fobjecttype%2F17616%2F113934.jpg&w=3840&q=20</image_link>
+  <link>https://www.uplandparcs.de/information?objektTyp=8p-penthouse</link>
+  <category_ids>
+    <category_id>4</category_id>
+    <category_id>110</category_id>
+  </category_ids>
+  <park>Weitblick Winterberg</park>
+</item>
+
+<item>
+  <id>Sauerland Lodge - 1</id>
+  <title>Exklusives Ferienhaus für 8 Personen in der Sauerland Lodge</title>
+  <description><![CDATA[120 m² Wohlfühlatmosphäre für bis zu 8 Personen: Sauna, Kamin, Terrasse & moderne Küche. Ideal für Familien und Freunde im Herzen des Sauerlands.]]></description>
+  <link>https://www.uplandparcs.de/information?objektTyp=huis-y</link>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1392%2Frecreation%2Fobjecttype%2F20442%2F136815.jpg&w=3840&q=20</image_link>
+  <category_ids>
+    <category_id>2</category_id>
+    <category_id>111</category_id>
+  </category_ids>
+  <park>Sauerland Lodge</park>
+</item>
+
+<item>
+  <id>Sauerland Lodge - 2</id>
+  <title>Luxuriöses Ferienhaus für 10 Personen in der Sauerland Lodge</title>
+  <description><![CDATA[140 m² Luxus pur: Platz für bis zu 10 Personen mit Sauna, Whirlwanne, Kamin & Terrasse. Perfekt für Familien, Freunde oder Gruppen im Sauerland.]]></description>
+  <link>https://www.uplandparcs.de/information?objektTyp=huis-x</link>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1392%2Frecreation%2Fobjecttype%2F20439%2F136806.jpg&w=3840&q=20</image_link>
+  <category_ids>
+    <category_id>2</category_id>
+    <category_id>111</category_id>
+  </category_ids>
+  <park>Sauerland Lodge</park>
+</item>
+
+
+<item>
+  <id>20199</id>
+  <title>Modernes Apartment für 4 Personen im UplandParcs Montafon</title>
+  <description><![CDATA[Helles 4-Personen-Apartment mit Balkon, Infrarotdusche & moderner Küche. Ruhige Lage in St. Gallenkirch mit herrlicher Aussicht.]]></description>
+  <link>https://www.uplandparcs.de/information?objektTyp=stijlvol-4p-appartement-vlak-bij-skigebied</link>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1016%2Frecreation%2Fobjecttype%2F20199%2F134943.jpg&w=3840&q=20</image_link>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>105</category_id>
+  </category_ids>
+  <park>UplandParcs Montafon</park>
+</item>
+
+<item>
+  <id>9173</id>
+  <title>Stilvolles Apartment für 5 Personen mit Balkon in St. Gallenkirch</title>
+  <description><![CDATA[Komfortables 5-Personen-Apartment mit Balkon, Infrarotdusche & moderner Küche. Ideal für Familien oder kleine Gruppen im Montafon.]]></description>
+  <link>https://www.uplandparcs.de/information?objektTyp=stijlvol-5p-appartement-vlak-bij-skigebied</link>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1016%2Frecreation%2Fobjecttype%2F9173%2F69639.jpeg&w=3840&q=75</image_link>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>105</category_id>
+  </category_ids>
+  <park>UplandParcs Montafon</park>
+</item>
+
+<item>
+  <id>9170</id>
+  <title>Geräumiges Apartment für 7 Personen mit Balkon im Montafon</title>
+  <description><![CDATA[Großzügiges 7-Personen-Apartment mit Infrarotdusche, Bad & Balkon. Viel Platz für Familien oder Gruppen in herrlicher Lage mit Blick auf die Berge.]]></description>
+  <link>https://www.uplandparcs.de/information?objektTyp=stijlvol-7p-appartement-dicht-bij-skigebied</link>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1016%2Frecreation%2Fobjecttype%2F9170%2F73621.jpg&w=3840&q=20</image_link>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>105</category_id>
+  </category_ids>
+  <park>UplandParcs Montafon</park>
+</item>
+
+<item>
+  <id>9176</id>
+  <title>Luxuriöses Penthouse für 9 Personen mit Dachterrasse</title>
+  <description><![CDATA[Penthouse über 2 Etagen für 9 Personen mit Kamin, Infrarotdusche & großer Dachterrasse. Perfekt für Familien oder Gruppen im Montafon.]]></description>
+  <link>https://www.uplandparcs.de/information?objektTyp=9p-penthouse-met-dakterras-nabij-skigebied</link>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1016%2Frecreation%2Fobjecttype%2F9176%2F69420.jpeg&w=3840&q=20</image_link>
+  <category_ids>
+    <category_id>4</category_id>
+    <category_id>105</category_id>
+  </category_ids>
+  <park>UplandParcs Montafon</park>
+</item>
+
+<item>
+  <id>10347</id>
+  <title>Großzügiges Apartment für 8 Personen im UplandParcs Silvretta</title>
+  <description><![CDATA[Modernes Apartment für 8 Personen mit stilvoller Ausstattung, Balkon & gemütlichem Wohnbereich. Perfekt für Familie oder Freunde.]]></description>
+  <link>https://www.uplandparcs.de/information?objektTyp=a1-luxe-8p-appartement-nabij-skigebied</link>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1028%2Frecreation%2Fobjecttype%2F10347%2F91784.jpg&w=3840&q=20</image_link>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>107</category_id>
+  </category_ids>
+  <park>UplandParcs Silvretta</park>
+</item>
+
+<item>
+  <id>10350</id>
+  <title>Stilvolles Apartment für 8 Personen im UplandParcs Silvretta</title>
+  <description><![CDATA[Geräumiges Apartment für 8 Personen mit moderner Küche, hellem Wohnbereich & Balkon mit Panoramablick.]]></description>
+  <link>https://www.uplandparcs.de/information?objektTyp=a2-luxe-8p-appartement-dicht-bij-skigebied</link>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1028%2Frecreation%2Fobjecttype%2F10350%2F91889.jpg&w=3840&q=20</image_link>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>107</category_id>
+  </category_ids>
+  <park>UplandParcs Silvretta</park>
+</item>
+
+<item>
+  <id>10353</id>
+  <title>Komfortables Apartment für 6 Personen in der Gemeinde Schruns im wunderschönen Montafon</title>
+  <description><![CDATA[Gemütliches Apartment für 6 Personen mit Balkon, modernem Wohnbereich & naturnaher Lage in St. Gallenkirch.]]></description>
+  <link>https://www.uplandparcs.de/information?objektTyp=a3-luxe-6p-appartement-vlakbij-skigebied</link>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1028%2Frecreation%2Fobjecttype%2F10353%2F93941.jpg&w=3840&q=20</image_link>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>107</category_id>
+  </category_ids>
+  <park>UplandParcs Silvretta</park>
+</item>
+
+<item>
+  <id>10356</id>
+  <title>Modernes Apartment für 8 Personen im Montafon in Österreich</title>
+  <description><![CDATA[Luxus-Apartment für 8 Personen mit großzügiger Raumaufteilung, hochwertiger Einrichtung & Balkon mit Aussicht.]]></description>
+  <link>https://www.uplandparcs.de/information?objektTyp=a4-luxe-8p-appartement-vlakbij-skigebied-</link>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1028%2Frecreation%2Fobjecttype%2F10356%2F92108.jpg&w=3840&q=20</image_link>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>107</category_id>
+  </category_ids>
+  <park>UplandParcs Silvretta</park>
+</item>
+
+<item>
+  <id>10359</id>
+  <title>Apartment für 6 Personen mit Balkon im schönen Montafon in Österreich</title>
+  <description><![CDATA[Komfortables Apartment für 6 Personen mit Balkon & heller Einrichtung. Perfekt für entspannte Tage in den Bergen.]]></description>
+  <link>https://www.uplandparcs.de/information?objektTyp=a5-luxe-6p-appartement-dicht-bij-skigebied</link>
+  <image_link>https://www.uplandparcs.nl/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1028%2Frecreation%2Fobjecttype%2F10359%2F148926.jpg&w=3840&q=75</image_link>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>107</category_id>
+  </category_ids>
+  <park>UplandParcs Silvretta</park>
+</item>
+
+<item>
+  <id>10362</id>
+  <title>Großes Apartment für 14 Personen im UplandParcs Silvretta</title>
+  <description><![CDATA[Kombination aus zwei Apartments: Platz für 14 Personen, viel Raum, moderne Ausstattung & Balkon mit Bergpanorama.]]></description>
+  <link>https://www.uplandparcs.de/information?objektTyp=a45-luxe-14p-appartement-nabij-skigebied</link>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1028%2Frecreation%2Fobjecttype%2F10362%2F92147.jpg&w=3840&q=20</image_link>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>107</category_id>
+  </category_ids>
+  <park>UplandParcs Silvretta</park>
+</item>
+
+<item>
+  <id>9188</id>
+  <title>Exklusives Penthouse für 6 Personen in der Gemeinde Schruns im Montafon</title>
+  <description><![CDATA[Penthouse mit Platz für 6 Personen, Kaminofen, stilvollem Wohnbereich & Balkon mit traumhafter Aussicht.]]></description>
+  <link>https://www.uplandparcs.de/information?objektTyp=a6-luxe-6p-penthouse-nabij-skigebied</link>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1028%2Frecreation%2Fobjecttype%2F9188%2F92201.jpg&w=3840&q=20</image_link>
+  <category_ids>
+    <category_id>4</category_id>
+    <category_id>107</category_id>
+  </category_ids>
+  <park>UplandParcs Silvretta</park>
+</item>
+
+<item>
+  <id>10365</id>
+  <title>Großzügiges Apartment für 8 Personen im wunderschönen Montafon</title>
+  <description><![CDATA[Helles Apartment für 8 Personen mit moderner Küche, gemütlichem Wohnbereich & Balkon mit Aussicht.]]></description>
+  <link>https://www.uplandparcs.de/information?objektTyp=b1-stijlvol-8p-appartement-nabij-skigebied</link>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1028%2Frecreation%2Fobjecttype%2F10365%2F92261.jpg&w=3840&q=20</image_link>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>107</category_id>
+  </category_ids>
+  <park>UplandParcs Silvretta</park>
+</item>
+
+<item>
+  <id>10368</id>
+  <title>Modernes Apartment für 6 Personen im UplandParcs Silvretta</title>
+  <description><![CDATA[Stilvolles Apartment für 6 Personen mit gemütlichem Wohnbereich, moderner Küche & Balkon.]]></description>
+  <link>https://www.uplandparcs.de/information?objektTyp=b2-stijlvol-6p-appartement-dicht-bij-skigebied</link>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1028%2Frecreation%2Fobjecttype%2F10368%2F92288.jpg&w=3840&q=20</image_link>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>107</category_id>
+  </category_ids>
+  <park>UplandParcs Silvretta</park>
+</item>
+
+<item>
+  <id>10371</id>
+  <title>Apartment für 8 Personen mit Balkon im Montafon in Österreich</title>
+  <description><![CDATA[Gemütliches Apartment für 8 Personen mit großzügigem Wohnbereich & Balkon. Ideal für Familien oder Freundeskreise.]]></description>
+  <link>https://www.uplandparcs.de/information?objektTyp=b3-stijlvol-8p-appartement-vlak-bij-skigebied</link>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1028%2Frecreation%2Fobjecttype%2F10371%2F92384.jpg&w=3840&q=20</image_link>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>107</category_id>
+  </category_ids>
+  <park>UplandParcs Silvretta</park>
+</item>
+
+<item>
+  <id>10374</id>
+  <title>Apartment für 5 Personen im Montafon in Österreich</title>
+  <description><![CDATA[Komfortables Apartment für 5 Personen mit heller Einrichtung, moderner Küche & Balkon. Perfekt für Paare oder Familien.]]></description>
+  <link>https://www.uplandparcs.de/information?objektTyp=b4-stijlvol-5p-appartement-vlakbij-skigebied</link>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1028%2Frecreation%2Fobjecttype%2F10374%2F92402.jpg&w=3840&q=20</image_link>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>107</category_id>
+  </category_ids>
+  <park>UplandParcs Silvretta</park>
+</item>
+
+<item>
+  <id>10377</id>
+  <title>Geräumiges Apartment für 8 Personen im Montafon in Österreich</title>
+  <description><![CDATA[Helles Apartment für 8 Personen mit Balkon, moderner Küche & gemütlichem Wohnbereich. Ideal für Gruppen.]]></description>
+  <link>https://www.uplandparcs.de/information?objektTyp=b5-stijlvol-8p-appartement-dicht-bij-skigebied</link>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1028%2Frecreation%2Fobjecttype%2F10377%2F92438.jpg&w=3840&q=20</image_link>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>107</category_id>
+  </category_ids>
+  <park>UplandParcs Silvretta</park>
+</item>
+
+<item>
+  <id>10344</id>
+  <title>Exklusives Penthouse für 6 Personen in der Gemeinde Schruns in Österreich</title>
+  <description><![CDATA[Luxuriöses Penthouse für 6 Personen mit großzügigem Balkon, stilvoller Einrichtung & moderner Ausstattung.]]></description>
+  <link>https://www.uplandparcs.de/information?objektTyp=b6-stijlvol-6p-penthouse-vlakbij-skigebied</link>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1028%2Frecreation%2Fobjecttype%2F10344%2F92519.jpg&w=3840&q=20</image_link>
+  <category_ids>
+    <category_id>4</category_id>
+    <category_id>107</category_id>
+  </category_ids>
+  <park>UplandParcs Silvretta</park>
+</item>
+
+</channel>
+</rss>
